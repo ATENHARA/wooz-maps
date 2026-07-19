@@ -15,19 +15,18 @@ Or clone it:
 git clone https://github.com/ATENHARA/wooz-maps.git
 ```
 
-Either way, what you get is a folder (`wooz-maps` or `wooz-maps-master`) containing all the zone `.txt` files directly — that folder *is* the map pack, it just needs the right name and location (see Installation).
+Either way, what you get is a folder (`wooz-maps` or `wooz-maps-master`) containing all the zone `.txt` files directly — that folder *is* the map pack.
 
 ## Installation
 
-1. Rename the downloaded/cloned folder to `Wooz Maps` and place it in your EverQuest Legends `maps` directory:
-   `<your EQ Legends install>\maps\Wooz Maps\`
-2. In your UI config (`UI_<layout>.ini`), set:
-   ```
-   MapSkin=Wooz Maps
-   ```
+1. Drop the downloaded/cloned folder into your EverQuest Legends `maps` directory, as-is — no need to rename it:
+   `<your EQ Legends install>\maps\<folder>\`
+2. In-game, open your map settings and select it from the list of available map skins (it'll show up under whatever the folder is named).
 3. Recommended map display settings, for the best experience with this pack's dark, high-contrast theme:
    - **Display type:** Minimal Map
    - **Background:** Dark
+
+<sub>Advanced: the skin selection is also stored as `MapSkin=<folder name>` in your `UI_<layout>.ini` files, if you'd rather set it there directly. Note the game rewrites this file when you change skins in-game, so it's not a "set once" file — the in-game menu is the reliable way to do this.</sub>
 
 ## Credits
 
