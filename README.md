@@ -6,9 +6,20 @@ This started as a recolor of **Brewall's Dark Maps** toward an even darker, high
 
 > **This pack is built specifically for [EverQuest Legends](https://www.everquestlegends.com/home).** It is not intended for and has not been tested against standard EverQuest live servers or emulators — several zones here have EQ Legends-specific layouts, NPCs, and content that don't exist in classic EverQuest. See also the [EQL Wiki](https://eqlwiki.com/) for general game info.
 
+## Download
+
+**[⬇ Download ZIP](https://github.com/ATENHARA/wooz-maps/archive/refs/heads/master.zip)**
+
+Or clone it:
+```
+git clone https://github.com/ATENHARA/wooz-maps.git
+```
+
+Either way, what you get is a folder (`wooz-maps` or `wooz-maps-master`) containing all the zone `.txt` files directly — that folder *is* the map pack, it just needs the right name and location (see Installation).
+
 ## Installation
 
-1. Copy the `Wooz Maps` folder into your EverQuest Legends `maps` directory:
+1. Rename the downloaded/cloned folder to `Wooz Maps` and place it in your EverQuest Legends `maps` directory:
    `<your EQ Legends install>\maps\Wooz Maps\`
 2. In your UI config (`UI_<layout>.ini`), set:
    ```
