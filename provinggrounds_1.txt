@@ -34,4 +34,4 @@ P 1794.0000, 2868.0000, -309.0000, 140, 200, 255, 2, Stilled_Lightning_Warrior
 P 1994.0000, 4874.0000, -310.0000, 255, 140, 0, 2, Neuromancer_Vionne_(Named)
 P -1780.0000, 4494.0000, -310.0000, 255, 140, 0, 2, Lieutenant_Commander_NakMuram_(Named)
 P 14.0081, -78.1076, -309.7722, 255, 140, 0, 2, Girplan_Scavenger_(Named)
-P 724.4501, 3768.6558, -310.6841,  0, 0, 240,  1,  GS:_Stone_of_Eternal_Power:_Southeast_Eye
+P 724.4501, 3768.6558, -310.6841, 30, 144, 255, 1, GS:_Stone_of_Eternal_Power:_Southeast_Eye

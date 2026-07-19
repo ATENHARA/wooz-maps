@@ -5,7 +5,7 @@ P 112.8961, 160.9967, 270.0643,  255, 255, 0,  2,  Locked_Door_(A_Stone_Key,Pick
 P -140.4573, -136.3555, 270.0644,  255, 255, 0,  2,  Locked_Door_(A_Stone_Key,Picklock_150)
 P -442.0474, -0.3555, 0.1595,  255, 255, 0,  2,  Elevator_-_Up
 P -430.1242, -0.6384, 73.6697,  255, 255, 0,  2,  Elevator_-_Down
-P 619.9513, 245.3277, 0.1582,  0, 0, 240,  1,  GS:_Vine_Woven_Basket
+P 619.9513, 245.3277, 0.1582, 30, 144, 255, 1, GS:_Vine_Woven_Basket
 P 637.9409, 130.6852, 75.5112,  186, 85, 211,  2,  Brewing_Barrel
 P -337.0408, -0.3287, 1.5374,  240, 240, 0,  2,  Locked_Door_(A_Stone_Key,Picklock_150)
 P -441.0000, 0.0000, 1.0000,  240, 240, 0,  2,  Locked_Elevator_(Key_of_Torsis,Picklock_150)
@@ -30,4 +30,4 @@ P 425.5664, -169.2712, 0.1582, 255, 140, 0, 2, Plaguebone_Warlord_(Hunter)
 P 327.2350, 38.3137, 252.0644, 255, 140, 0, 2, Ravenous_War_bone_skeleton_(Hunter)
 P 552.1266, 136.2708, 0.1582, 255, 140, 0, 2, Terror_Wraith_(Hunter)
 P -406.4016, -0.2615, 72.1269, 255, 140, 0, 2, Tzirathk_(Hunter)
-P 373.0612, -133.7286, -17.9980,  0, 0, 240,  1,  GS:_Icon_of_the_High_Scale
+P 373.0612, -133.7286, -17.9980, 30, 144, 255, 1, GS:_Icon_of_the_High_Scale

@@ -16,7 +16,7 @@ P 289.2724, -75.6019, -124.4246,  240, 240, 240,  2,  The_Balcony_(Pull_spot_for
 P 187.8344, 118.4744, 28.2317,  240, 240, 240,  2,  Frenzied_Room
 P 64.6524, 64.1551, 0.1482,  240, 240, 0,  2,  Secret_Door_(Click_to_Open)
 P -122.8793, 2.0487, -291.1702, 255, 140, 0, 2, Swirlspine_Guardian_(Named)
-P -148.7973, 144.7980, -257.3285,  0, 0, 240,  1,  GS:_Dusty_Old_Finger_Bones
+P -148.7973, 144.7980, -257.3285, 30, 144, 255, 1, GS:_Dusty_Old_Finger_Bones
 P -136.9216, 25.2286, -293.8710,  240, 127, 0,  2,  Phinigel_Autropos_(Raid)
 P 104.1188, 256.4700, -109.3195, 255, 140, 0, 2, Cauldronboil_(Hunter,Roam)
 P 331.7406, -127.7720, -79.2432, 255, 140, 0, 2, Coralyn_Kepmaiden_(Hunter)

@@ -50,4 +50,4 @@ P 521.1061, 33.0321, 34.3145, 255, 140, 0, 2, Spiritcharmer_Hargortaz_(Hunter)
 P -363.0288, -1221.7057, 4.0020, 255, 140, 0, 2, Spiritcharmer_Hargortaz_(Hunter)
 P -1836.1771, -89.7035, -91.9979, 255, 140, 0, 2, an_undead_weaponsmith_(Hunter)
 P -1688.7455, 146.3015, -123.6855, 255, 140, 0, 2, an_undead_weaponsmith_(Hunter)
-P -1747.1821, -788.2473, -86.2221,  0, 0, 240,  1,  GS:_Cryptic_Page
+P -1747.1821, -788.2473, -86.2221, 30, 144, 255, 1, GS:_Cryptic_Page

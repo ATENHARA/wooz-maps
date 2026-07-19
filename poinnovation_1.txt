@@ -4,7 +4,7 @@ P -302.0000, -505.0000, 0.0000,  255, 255, 255,  2,  Graveyard
 P -51.7815, 47.4868, 1.0242, 140, 200, 255, 2, Giwin_Mirakon
 P 234.2977, -27.3619, 1.5428, 140, 200, 255, 2, Researcher_Kaeon
 P 312.3806, -26.0649, 1.5331, 140, 200, 255, 2, Chronographer_Muon
-P -1084.7335, 833.7087, -1884.4359,  0, 0, 255,  1,  GS:_Timeless_Oil
+P -1084.7335, 833.7087, -1884.4359, 30, 144, 255, 1, GS:_Timeless_Oil
 P 274.0000, 760.0000, -171.3125,  240, 240, 240,  2,  Endurance_Testing_(say_Ready_to_Researcher_Kaeon)
 P -274.6301, 859.8168, -1854.9092,  240, 240, 0,  2,  from_Cartographer_Muon_(say_Yes_with_Quintessence_of_Elements_in_inventory)
 P -753.1953, 838.6050, -1888.9972, 140, 200, 255, 2, Loreseeker_Maelin

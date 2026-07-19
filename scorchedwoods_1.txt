@@ -29,12 +29,12 @@ P -1963.2712, -2421.1902, -367.2211,  0, 127, 127,  2,  Arbitrator_Kelliar_(Hero
 P 2910.9294, 779.7874, -373.4281,  0, 127, 127,  2,  Orrin_Dracos_(Quests)
 P 2563.5471, 1469.4268, -374.2301, 140, 200, 255, 2, Grazen_Aeliubi_(Combine_Analyst)
 P 1497.7063, 1063.3436, -272.1024,  0, 127, 127,  2,  Taskmaster_Errgh_(Quests)
-P 755.6053, -2675.5278, -378.0608,  0, 0, 240,  1,  GS:_Ever_Burning_Wood
+P 755.6053, -2675.5278, -378.0608, 30, 144, 255, 1, GS:_Ever_Burning_Wood
 P 3845.4563, -6495.3037, -249.9565,  240, 240, 240,  2,  Sarnak_Fort
 P 4315.0664, -6344.5713, -254.3192, 140, 200, 255, 2, Opp_Feelsick_(Lost_&_Confused)
 P -2564.8958, -287.5529, -204.1678, 140, 200, 255, 2, Ambassador_Gruds_(Combine_Kromdul_Liaison)
 P -2214.3943, 405.7437, -203.6284,  240, 240, 240,  2,  Kromdul_Leadership
-P 292.0158, -934.1008, -380.2801,  0, 0, 240,  1,  GS:_Pile_of_Sawdust
+P 292.0158, -934.1008, -380.2801, 30, 144, 255, 1, GS:_Pile_of_Sawdust
 P -2336.1301, -3266.1055, -252.2213, 140, 200, 255, 2, Fellgoona_Trogue
 P -2383.6895, -2784.1946, -340.3988, 255, 140, 0, 2, Gullerback_Undying_(Hunter)
 P -2299.7507, -3144.6814, -257.7688, 255, 140, 0, 2, Gullerback_Undying_(Hunter)

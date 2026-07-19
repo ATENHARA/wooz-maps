@@ -33,12 +33,12 @@ P 545.1922, 828.8521, -45.5806, 255, 140, 0, 2, Spider_Tamer_Gugan_(Named)
 P 471.9641, 1196.8003, 16.7769, 255, 140, 0, 2, Queen_Gloomfang_(Named)
 P 573.5466, 520.3970, -5.1000,  0, 127, 127,  2,  Guard_Hobart_(Missions_4+)
 P 573.7850, 540.1840, -4.9753,  0, 127, 127,  2,  Guard_Maddoc_(Missions_6+)
-P 63.2670, 191.2276, 12.3262,  0, 0, 240,  1,  GS:_Gloomingdeep_Mushroom
+P 63.2670, 191.2276, 12.3262, 30, 144, 255, 1, GS:_Gloomingdeep_Mushroom
 P 274.7997, -52.7179, 12.0960, 140, 200, 255, 2, A_Priest_of_Luclin_(Corpse_Summoner)
 P 223.9796, 379.2767, -7.0110, 255, 140, 0, 2, Rufus_(Named)
 P 643.0598, 86.9381, 9.8475,  0, 127, 127,  2,  Revolt_Scout_Kaikachi_(Missions_4+)
 P 615.5535, 73.4900, 6.3297,  0, 127, 127,  2,  Revolt_Scout_Zajeer_(Missions_4+)
-P 13.5393, 20.2024, -13.8410,  0, 0, 240,  1,  GS:_Proxan`s_Sword
+P 13.5393, 20.2024, -13.8410, 30, 144, 255, 1, GS:_Proxan`s_Sword
 P 1152.3899, 326.3610, -138.3160, 255, 140, 0, 2, Krenshin_(Named,Roam)
 P 343.3467, -762.7762, -14.0564, 255, 140, 0, 2, Slavemaster_Ruga_(Named)
 P 1217.6803, 578.1267, -33.1378, 255, 140, 0, 2, Sliver_(Named)

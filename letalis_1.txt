@@ -10,5 +10,5 @@ P -204, 2288, -224, 255, 140, 0, 2, A_Corrupted_Hivemistress_(Named)
 P -264, 2252, -236, 255, 140, 0, 2, A_Greater_Horror_(Named)
 P 444, 67, -4, 255, 140, 0, 2, A_Imploded__Stonegrabber_(Named
 P -549, -195, -56, 255, 140, 0, 2, A_Dusty_Spire_Spirit_(Named)
-P -283, -192, -50, 0, 0, 240, 1, GS:_Book_Binding
+P -283, -192, -50, 30, 144, 255, 1, GS:_Book_Binding
 P -33, 1018, 29, 240, 240, 240, 2, Thoughleech_Cave

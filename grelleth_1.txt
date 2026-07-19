@@ -22,12 +22,12 @@ P 493.3690, -5970.8867, 291.0787, 255, 140, 0, 2, Cook_Mul_(Hunter)
 P -542.9564, -2966.8735, 8.2307, 255, 140, 0, 2, Stitches_(Hunter,Roam)
 P -59.0828, -2375.8335, 10.3524, 255, 140, 0, 2, Beast_Caller_Plakt_(Hunter,Roam)
 P -541.6297, -5218.6670, -4.8171, 255, 140, 0, 2, Rotblade_Klonda_(Hunter,Roam)
-P -1211.5160, -2433.1018, 13.9004,  0, 0, 240,  1,  GS:_A_Filth_Encrusted_Note
-P 291.4237, -3958.8921, 137.5343,  0, 0, 240,  1,  GS:_Wuran`s_Decree
-P 67.2335, -5183.3818, 202.1971,  0, 0, 240,  1,  GS:_Kotul`s_Journal_Page
+P -1211.5160, -2433.1018, 13.9004, 30, 144, 255, 1, GS:_A_Filth_Encrusted_Note
+P 291.4237, -3958.8921, 137.5343, 30, 144, 255, 1, GS:_Wuran`s_Decree
+P 67.2335, -5183.3818, 202.1971, 30, 144, 255, 1, GS:_Kotul`s_Journal_Page
 P 479.0793, -5173.5654, 290.3561,  240, 240, 0,  2,  Ramp_Up
 P 274.1335, -5880.7979, 400.7207, 140, 200, 255, 2, Kelmur_the_Quartermaster
-P 327.8777, -5823.0029, 398.4901,  0, 0, 240,  1,  GS:_Swinetor_Magical_Trinket
+P 327.8777, -5823.0029, 398.4901, 30, 144, 255, 1, GS:_Swinetor_Magical_Trinket
 P -727.2556, -6170.9106, 289.8404, 140, 200, 255, 2, Gorvna_the_Jailer
 P 309.8913, -5622.7563, -29.1161, 140, 200, 255, 2, Pulq_the_Beastmaster_(Palace_Beast_Feeder)
 P -294.9460, -6170.9385, 397.4003,  0, 0, 127,  1,  GS:_Swinetor_Map

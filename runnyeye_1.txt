@@ -25,7 +25,7 @@ P 112.0539, -86.4897, -131.9354, 140, 200, 255, 2, Lord_Pickclaw_(Named)
 P -170.5130, 92.8199, -131.9354, 140, 200, 255, 2, Battlelord_Paluk_(Named)
 P 89.2016, -165.9093, -130.9354, 140, 200, 255, 2, Lord_Pickclaw_(Named)
 P -3.7497, -7.9859, -164.9355, 140, 200, 255, 2, Sludge_Dankmire_(Named)
-P 68.7316, 41.0624, -130.3631,  0, 0, 255,  1,  GS:_Questionable_Cheese
+P 68.7316, 41.0624, -130.3631, 30, 144, 255, 1, GS:_Questionable_Cheese
 P -105.6582, -155.1154, -82.7689, 255, 140, 0, 2, The_Sporali_Moldmaster_(Hunter)
 P -194.2918, 226.5841, -85.6542, 255, 140, 0, 2, The_Sporali_Moldmaster_(Hunter,Roam)
 P -142.4472, 84.6751, -130.4118, 255, 140, 0, 2, The_Sporali_Moldmaster_(Hunter)

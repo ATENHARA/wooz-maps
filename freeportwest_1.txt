@@ -205,7 +205,7 @@ P 1124.2023, -726.0923, -93.9262,  0, 127, 0,  2,  Jacob_Masterson_(Mercenary_Li
 P 1073.2345, -734.3049, -93.9262,  0, 127, 0,  2,  Laura_Masterson_(Mercenary_Liaison)
 P 1634.8019, -1410.3102, -198.9763,  0, 127, 0,  2,  Ilolista_Enitia_(Alchemy)
 P 1689.2140, -1396.6713, -72.7962,  240, 240, 0,  2,  Elevator_to_Top_(Click_Floor)
-P 1657.8904, -1432.0978, -72.9785,  0, 0, 240,  1,  GS:_Freeport_Prayer_Bead
+P 1657.8904, -1432.0978, -72.9785, 30, 144, 255, 1, GS:_Freeport_Prayer_Bead
 P 1681.5735, -1426.4740, 13.0205,  240, 240, 0,  2,  Summon_Elevator_(Click_Helmet)
 P 1712.8871, -1451.6902, 13.0214, 255, 230, 140, 2, Thurion_Desius_(GM_Paladin)
 P 1707.8942, -1496.4335, 13.0215, 255, 230, 140, 2, Tholius_Quey_(GM_Cleric)
@@ -242,7 +242,7 @@ P 909.9294, 175.4525, -81.0084, 255, 230, 140, 2, Shana_Liskia_(GM_Enchanter)
 P 889.5233, 206.6730, -81.0084,  0, 127, 0,  2,  Yarina_Zaramp_(Enchanter_Spells)
 P 889.6758, 312.4680, -60.0084,  240, 240, 0,  2,  Teleporter_Down
 P 1059.7168, 197.3311, -191.0085,  240, 240, 0,  2,  Teleporter_Up
-P 842.5862, 157.8933, -237.5587,  0, 0, 240,  1,  GS:_Old_Silver_Coin
+P 842.5862, 157.8933, -237.5587, 30, 144, 255, 1, GS:_Old_Silver_Coin
 P -1.0292, 294.4887, -56.7352,  0, 127, 127,  2,  Erling_Elsai_(Quests)
 P -179.5769, 158.3979, -44.2669,  0, 127, 0,  2,  Ping_Fuzzlecutter_(General)
 P 1135.4821, -7.5560, -126.6078,  0, 127, 0,  2,  Jacob_Masterson_(Mercenaries)

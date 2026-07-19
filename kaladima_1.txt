@@ -53,5 +53,5 @@ P -300.0898, -68.5758, 12.0020, 255, 230, 140, 2, Furtog_Ogrebane_(GM_Warrior)
 P -301.1580, -142.6992, 1.0020, 255, 230, 140, 2, Hogunk_Ventille_(GM_Warrior)
 P -469.4652, -21.1954, 0.0020,  0, 127, 127,  2,  Artisan_Yar_Shiverbow_(Tradeskill_Quests)
 P -184.5790, -29.8117, 0.1030,  186, 85, 211,  2,  Loom
-P -365.2792, -74.9506, -8.9980,  0, 0, 240,  1,  GS:_Old_Silver_Coin
+P -365.2792, -74.9506, -8.9980, 30, 144, 255, 1, GS:_Old_Silver_Coin
 P -415.8439, 87.7425, 0.0020, 140, 200, 255, 2, Bronlor_Lightblade

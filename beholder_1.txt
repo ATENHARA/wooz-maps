@@ -16,4 +16,4 @@ P 1785.3280, -532.8950, 3.6365, 255, 140, 0, 2, Brahhm_(Hunter,Roam)
 P 583.8831, -517.3030, -74.4354, 255, 140, 0, 2, King_Xorbb_(Hunter)
 P 121.3708, -346.1525, 1.5025, 255, 140, 0, 2, Spinflint_(Hunter,Roam,HS)
 P 413.6507, -886.3882, -8.5705, 255, 140, 0, 2, Yymp_the_infernal_(Hunter,Roam)
-P 1171.8446, -192.6662, 43.3442,  0, 0, 240,  1,  GS:_Emerald-Tipped_Staff
+P 1171.8446, -192.6662, 43.3442, 30, 144, 255, 1, GS:_Emerald-Tipped_Staff

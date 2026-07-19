@@ -67,11 +67,11 @@ P -118.7623, -764.4004, 0.0020,  0, 127, 0,  2,  Gralpa_Axeheft_(Cleric_Spells)
 P -125.1524, -746.0598, 0.0020,  0, 127, 0,  2,  Duppa_Pickstone_(Cleric_Spells)
 P -125.6739, -735.5128, 0.0020,  0, 127, 0,  2,  Zeffan_Holdsman_(Cleric_Spells)
 P -132.4228, -1337.1675, 43.9707, 255, 230, 140, 2, Datur_Nightseer_(GM_Paladin)
-P 128.3983, -650.6530, 2.5142,  0, 0, 240,  1,  GS:_Strange_Dark_Fungus_(x9)
-P 126.8925, -639.8976, 2.5165,  0, 0, 240,  1,  GS:_Underfoot_Mushroom_(x9)
+P 128.3983, -650.6530, 2.5142, 30, 144, 255, 1, GS:_Strange_Dark_Fungus_(x9)
+P 126.8925, -639.8976, 2.5165, 30, 144, 255, 1, GS:_Underfoot_Mushroom_(x9)
 P 176.6479, -449.8411, 1.5208, 140, 200, 255, 2, Trantor_Everhot
 P -300.0000, -494.0000, -34.1875,  240, 0, 0,  2,  Succor
-P -331.4864, -762.4919, -93.8250,  0, 0, 240,  1,  GS:_Dusty_Broken_Sword
+P -331.4864, -762.4919, -93.8250, 30, 144, 255, 1, GS:_Dusty_Broken_Sword
 P -237.7836, -594.5317, -24.9980,  0, 127, 0,  2,  Kafia_Ratsbone_(Weapons)
 P 167.6818, -690.9599, 0.0020,  0, 127, 0,  2,  Serenk_Greybloom_(Baking)
 P 162.9547, -691.9270, 0.0020,  0, 127, 0,  2,  Tissin_Greybloom_(Baking)
