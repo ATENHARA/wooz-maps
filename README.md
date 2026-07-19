@@ -2,7 +2,7 @@
 
 A custom, high-contrast map pack for **EverQuest Legends**, built for use with the game's built-in map viewer.
 
-This started as a recolor of [Brewall's Map Pack](https://alla.clumsysworld.com/brewalls_maps.php) toward a darker, higher-contrast aesthetic, but grew into something more involved: many EverQuest Legends zones exist under two different internal names — a modern redesigned version and an older "classic" version — and the game frequently loads the classic one even when it sounds like the outdated option. In several zones that classic version was missing or incomplete in every available map pack, which showed up in-game as black, unreadable text and sparse/missing NPC data. Wooz Maps fixes that: correct, complete zone layouts combined with a consistent, high-contrast color scheme, and NPC/POI data cross-referenced and merged in from multiple sources where the primary source was incomplete.
+This started as a recolor of **Brewall's Dark Maps** toward an even darker, higher-contrast aesthetic, but grew into something more involved: many EverQuest Legends zones exist under two different internal names — a modern redesigned version and an older "classic" version — and the game frequently loads the classic one even when it sounds like the outdated option. In several zones that classic version was missing or incomplete in every available map pack, which showed up in-game as black, unreadable text and sparse/missing NPC data. Wooz Maps fixes that: correct, complete zone layouts combined with a consistent, high-contrast color scheme, and NPC/POI data cross-referenced and merged in from multiple sources where the primary source was incomplete.
 
 ## Installation
 
@@ -16,7 +16,7 @@ This started as a recolor of [Brewall's Map Pack](https://alla.clumsysworld.com/
 ## Credits
 
 Built on and informed by:
-- [**Brewall's Map Pack**](https://alla.clumsysworld.com/brewalls_maps.php) — the original community EverQuest cartography this pack is derived from.
+- **[Brewall's Dark Maps](https://www.eqmaps.info/)** — this pack is directly modified from Brewall's Dark Maps; the vast majority of the base geometry, labeling conventions, and dark-theme color palette this project builds on originates there. All credit to Brewall for the original cartography.
 - **Dark Good's Maps** — a second community reference pack used for cross-checking colors and geometry.
 - EverQuest Legends' own default/legacy map exports — often the most geometrically accurate source for zone layouts, even when their coloring wasn't usable as-is.
 
