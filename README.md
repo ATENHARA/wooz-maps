@@ -1,10 +1,10 @@
 # Wooz Maps
 
-A custom, high-contrast map pack for **EverQuest Legends**, built for use with the game's built-in map viewer.
+A custom, high-contrast map pack for **[EverQuest Legends](https://www.everquestlegends.com/home)**, built for use with the game's built-in map viewer.
 
 This started as a recolor of **Brewall's Dark Maps** toward an even darker, higher-contrast aesthetic, but grew into something more involved: many EverQuest Legends zones exist under two different internal names — a modern redesigned version and an older "classic" version — and the game frequently loads the classic one even when it sounds like the outdated option. In several zones that classic version was missing or incomplete in every available map pack, which showed up in-game as black, unreadable text and sparse/missing NPC data. Wooz Maps fixes that: correct, complete zone layouts combined with a consistent, high-contrast color scheme, and NPC/POI data cross-referenced and merged in from multiple sources where the primary source was incomplete.
 
-> **This pack is built specifically for EverQuest Legends.** It is not intended for and has not been tested against standard EverQuest live servers or emulators — several zones here have EQ Legends-specific layouts, NPCs, and content that don't exist in classic EverQuest.
+> **This pack is built specifically for [EverQuest Legends](https://www.everquestlegends.com/home).** It is not intended for and has not been tested against standard EverQuest live servers or emulators — several zones here have EQ Legends-specific layouts, NPCs, and content that don't exist in classic EverQuest. See also the [EQL Wiki](https://eqlwiki.com/) for general game info.
 
 ## Installation
 
