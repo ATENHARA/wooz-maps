@@ -681,10 +681,10 @@ P -300, 2400, 0, 240, 127, 0, 2, Nexona
 P -300, 2600, 0, 240, 127, 0, 2, Phara_Dar
 P -300, 2800, 0, 240, 127, 0, 2, Silverwing
 P -300, 3000, 0, 240, 127, 0, 2, Xygoz
-P -300, 3200, 0, 127, 64, 0, 2, Blood-Thirsty_Racnor
-P -300, 3400, 0, 127, 64, 0, 2, Elder_Ekron
-P -300, 3600, 0, 127, 64, 0, 2, Kluzen_the_Protector
-P -300, 3800, 0, 127, 64, 0, 2, Magma_Baslisk
-P -300, 4000, 0, 127, 64, 0, 2, Milyex_Vloren
-P -300, 4200, 0, 127, 64, 0, 2, Qunard_Ashenclaw
-P -300, 4400, 0, 127, 64, 0, 2, Trvenro_the_Skygazer
+P -300, 3200, 0, 255, 140, 0, 2, Blood-Thirsty_Racnor
+P -300, 3400, 0, 255, 140, 0, 2, Elder_Ekron
+P -300, 3600, 0, 255, 140, 0, 2, Kluzen_the_Protector
+P -300, 3800, 0, 255, 140, 0, 2, Magma_Baslisk
+P -300, 4000, 0, 255, 140, 0, 2, Milyex_Vloren
+P -300, 4200, 0, 255, 140, 0, 2, Qunard_Ashenclaw
+P -300, 4400, 0, 255, 140, 0, 2, Trvenro_the_Skygazer

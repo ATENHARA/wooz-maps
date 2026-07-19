@@ -29,14 +29,14 @@ P 78.0548, 257.9007, -180.3804,  240, 240, 240,  2,  Overseer_Room
 P 314.1711, -393.4969, -179.7642,  240, 240, 240,  2,  BBQ_Room
 P 758.7864, 53.6046, -96.4564,  0, 0, 240,  1,  GS:_Cursed_Arrowheads
 P -38.4581, 217.5956, -181.9354, 140, 200, 255, 2, a_tormented_tradesman
-P 420.9638, -125.0951, -181.8312,  127, 64, 0,  2,  a_coerced_crusader_(Hunter)
-P 369.4000, -146.9525, -181.8312,  127, 64, 0,  2,  a_coerced_penkeeper_(Hunter)
-P 346.0001, -128.7328, -178.3204,  127, 64, 0,  2,  a_coerced_revenant_(Hunter)
-P 77.3367, 308.5241, -181.9354,  127, 64, 0,  2,  The_Kly_(Hunter)
-P 904.3559, -91.3098, -82.9667,  127, 64, 0,  2,  lumpy_goo_(Hunter)
-P 610.9236, -216.0495, -192.4145,  127, 64, 0,  2,  a_shy_kly_imprecator_(Hunter)
-P 121.4082, -30.7717, -179.9416,  127, 64, 0,  2,  a_sly_kly_imprecator_(Hunter)
-P 339.3473, -149.5608, -181.9354,  127, 64, 0,  2,  a_spectral_crusader_(Hunter)
-P 698.5915, 49.5336, -194.3681,  127, 64, 0,  2,  an_undead_blacksmith_(Hunter)
+P 420.9638, -125.0951, -181.8312, 255, 140, 0, 2, a_coerced_crusader_(Hunter)
+P 369.4000, -146.9525, -181.8312, 255, 140, 0, 2, a_coerced_penkeeper_(Hunter)
+P 346.0001, -128.7328, -178.3204, 255, 140, 0, 2, a_coerced_revenant_(Hunter)
+P 77.3367, 308.5241, -181.9354, 255, 140, 0, 2, The_Kly_(Hunter)
+P 904.3559, -91.3098, -82.9667, 255, 140, 0, 2, lumpy_goo_(Hunter)
+P 610.9236, -216.0495, -192.4145, 255, 140, 0, 2, a_shy_kly_imprecator_(Hunter)
+P 121.4082, -30.7717, -179.9416, 255, 140, 0, 2, a_sly_kly_imprecator_(Hunter)
+P 339.3473, -149.5608, -181.9354, 255, 140, 0, 2, a_spectral_crusader_(Hunter)
+P 698.5915, 49.5336, -194.3681, 255, 140, 0, 2, an_undead_blacksmith_(Hunter)
 
 

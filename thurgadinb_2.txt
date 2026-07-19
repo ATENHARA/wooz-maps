@@ -625,5 +625,5 @@ P -100, 1400, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
 P -100, 1600, 0, 240, 127, 0, 2, Chamberlain_Krystorf
 P -100, 1800, 0, 240, 127, 0, 2, Dain_Frostreaver_IV
 P -100, 2000, 0, 240, 127, 0, 2, Seneschal_Aldikar
-P -100, 2200, 0, 127, 64, 0, 2, Glucose
-P -100, 2400, 0, 127, 64, 0, 2, Grizznot
+P -100, 2200, 0, 255, 140, 0, 2, Glucose
+P -100, 2400, 0, 255, 140, 0, 2, Grizznot

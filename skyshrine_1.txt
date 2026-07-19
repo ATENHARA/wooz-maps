@@ -31,8 +31,8 @@ P -1821.0221, -1841.1464, -59.8626,  240, 127, 0,  2,  Grendish_the_Crusader_(Ra
 P -1208.4153, -2027.3639, 0.1062,  240, 127, 0,  2,  Jortreva_the_Crusader_(Raid)
 P -1970.9457, -2644.9600, -164.8313,  240, 127, 0,  2,  Lord_Yelinak_(Raid)
 P -2264.0315, -1744.7980, -40.8626,  240, 127, 0,  2,  Susarrak_the_Crusader_(Raid)
-P -202.1127, -904.1763, 195.4648,  127, 64, 0,  2,  Kintaru_of_the_Shrine_(Hunter)
-P -1284.8107, -207.1407, 64.4965,  127, 64, 0,  2,  Marech_of_the_Shrine_(Hunter)
+P -202.1127, -904.1763, 195.4648, 255, 140, 0, 2, Kintaru_of_the_Shrine_(Hunter)
+P -1284.8107, -207.1407, 64.4965, 255, 140, 0, 2, Marech_of_the_Shrine_(Hunter)
 P 680.7898, -177.3853, 10.0020,  0, 127, 0,  2,  Purveyor_Nish_(General)
 P 764.8832, -199.3386, 10.0020, 140, 200, 255, 2, Lieutenant_Milven
 P 853.4628, -201.2175, 10.0020, 140, 200, 255, 2, Commander_Leuz

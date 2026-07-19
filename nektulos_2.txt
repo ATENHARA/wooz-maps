@@ -592,4 +592,4 @@ P 0, 2600, 0, 175, 175, 175, 2, Original_Map:_EverQuest_Default
 P 0, 2800, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsinger_(Cazic-Thule)
 P 0, 3000, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P 0, 3200, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P 0, 3400, 0, 127, 64, 0, 2, Travis_Two_Tone_Check_EQ
+P 0, 3400, 0, 255, 140, 0, 2, Travis_Two_Tone_Check_EQ

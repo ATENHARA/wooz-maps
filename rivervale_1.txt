@@ -96,7 +96,7 @@ P 210.1221, 63.9024, 22.0020, 140, 200, 255, 2, Shutter_Silentstep
 P 108.2947, 246.1829, -19.9980,  0, 127, 0,  2,  Frankle_Ironhair_(Smithing)
 P 128.0104, 282.6589, -19.9980,  0, 127, 127,  2,  Artisan_Bill_Whistletop_(Trade_Skill_Quests)
 P 84.5237, 229.3323, -23.8849,  0, 127, 0,  2,  Joana_Jinklebelly_(Fletching)
-P 189.3194, 265.6948, -12.6547,  127, 64, 0,  2,  Nillipuss_(Named,Roam)
+P 189.3194, 265.6948, -12.6547, 255, 140, 0, 2, Nillipuss_(Named,Roam)
 P 446.7882, 82.3031, -8.0174,  0, 240, 0,  2,  Fento_Jalla_(Tribute)
 P 384.9147, 76.8133, -13.9980,  0, 127, 0,  2,  a_spell_research_merchant_(Research)
 P 156.9755, -94.4314, 43.9707, 140, 200, 255, 2, Mayor_Gubbin

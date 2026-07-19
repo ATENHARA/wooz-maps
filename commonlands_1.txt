@@ -91,8 +91,8 @@ P 742.0000, -1009.0000, 0.0000,  0, 127, 0,  2,  Innkeep_Fenia_(Bar)
 P 743.0000, -997.0000, 0.0000, 140, 200, 255, 2, Niatra_Glimtaf
 P 801.0000, -1008.0000, -3.0000,  0, 127, 0,  2,  Germe_Threadspinner_(Cloth_Armor)
 P 789.0000, -996.0000, -3.0000,  0, 127, 0,  2,  Joryd_Longarms_(Fletching)
-P 1320.0000, -940.0000, -20.0000,  127, 64, 0,  2,  High_Chief_Foslosas_(Named)
-P 1397.0000, -935.0000, -18.0000,  127, 64, 0,  2,  High_Chief_Diedridans_(Named)
+P 1320.0000, -940.0000, -20.0000, 255, 140, 0, 2, High_Chief_Foslosas_(Named)
+P 1397.0000, -935.0000, -18.0000, 255, 140, 0, 2, High_Chief_Diedridans_(Named)
 P 2722.0000, -56.0000, 4.0000,  0, 127, 0,  2,  Jelda_Needlefinger_(Tailoring)
 P 2788.0000, -58.0000, 7.0000,  0, 127, 0,  2,  Innkeep_Elora_(Bar)
 P 2521.0000, -158.0000, 8.0000, 140, 200, 255, 2, Jimble_Woodentoe_(Roam)
@@ -120,5 +120,5 @@ P 3087.1382, -1026.0751, 95.1683, 140, 200, 255, 2, Badlen_Gellentine
 P 1317.1686, -949.2515, -20.3125,  0, 0, 240,  1,  GS:_Raw_Short_Sword_3
 P 1396.5331, -939.9338, -19.2152,  0, 0, 240,  1,  GS:_Raw_Short_Sword_2
 P 1403.0846, -929.4319, -19.0633,  0, 0, 240,  1,  GS:_Raw_Short_Sword_1
-P 155.8985, -726.0521, 24.3748,  127, 64, 0,  2,  High_Chief_Kellerus_(Named)
+P 155.8985, -726.0521, 24.3748, 255, 140, 0, 2, High_Chief_Kellerus_(Named)
 P -1072.3025, 43.4837, 26.1127, 140, 200, 255, 2, Jimble_Woodentoe_(Roam)

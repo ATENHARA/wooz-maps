@@ -58,7 +58,7 @@ P -200, 1300, 0, 240, 240, 0, 2, Froststone_Barter_ground_spawn_(coldain_area)
 P -200, 1500, 0, 240, 240, 240, 2, Creepy_Crawly_and_Wiggly_ground_spawn_(lower_areas)
 P -200, 1700, 0, 140, 200, 255, 2, Silk_Silk_Silk_ground_spawn
 P -200, 1900, 0, 140, 200, 255, 2, Ice_Stones_mob_drop
-P -200, 2100, 0, 127, 64, 0, 2, Crystal_Grinder_PH=a_crystal_skitterer
-P -200, 2300, 0, 127, 64, 0, 2, Gem_collector_PH=a_focus_geonid
-P -200, 2500, 0, 127, 64, 0, 2, Life_Leech_PH=a_terror_carver,_a_hollow_carver
-P -200, 2700, 0, 127, 64, 0, 2, Queen_Dracnia_PH=a_crystal_purifier
+P -200, 2100, 0, 255, 140, 0, 2, Crystal_Grinder_PH=a_crystal_skitterer
+P -200, 2300, 0, 255, 140, 0, 2, Gem_collector_PH=a_focus_geonid
+P -200, 2500, 0, 255, 140, 0, 2, Life_Leech_PH=a_terror_carver,_a_hollow_carver
+P -200, 2700, 0, 255, 140, 0, 2, Queen_Dracnia_PH=a_crystal_purifier

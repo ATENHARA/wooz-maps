@@ -6,7 +6,7 @@ P 660.1766, 115.2106, 47.5371, 140, 200, 255, 2, Ritual_Guardian_(Boss)
 P 120.1978, 341.0293, 47.5355,  240, 240, 240,  2,  The_Vine_Room
 P -27.4178, -625.8876, -113.9710,  240, 240, 240,  2,  The_Aquaducts
 P 558.0000, 360.0000, 31.1494,  240, 240, 240,  2,  The_Crevice_Room
-P 522.3399, 73.2044, 46.2082,  127, 64, 0,  2,  Infected_Observer_(Hunter)
-P 134.9452, 280.2533, 46.2082,  127, 64, 0,  2,  Spirit-Torn_Yunta_Alchemist_(Hunter)
-P -109.0687, -742.9129, -97.4805,  127, 64, 0,  2,  Cursed_Shinta_Protector_(Hunter)
+P 522.3399, 73.2044, 46.2082, 255, 140, 0, 2, Infected_Observer_(Hunter)
+P 134.9452, 280.2533, 46.2082, 255, 140, 0, 2, Spirit-Torn_Yunta_Alchemist_(Hunter)
+P -109.0687, -742.9129, -97.4805, 255, 140, 0, 2, Cursed_Shinta_Protector_(Hunter)
 P -388.7713, -80.9170, -78.7349, 140, 200, 255, 2, Yunta_Spiritmaster_Efferael_(Boss)

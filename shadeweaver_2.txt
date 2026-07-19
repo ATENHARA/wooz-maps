@@ -55,5 +55,5 @@ P 700.0000, 3500.0000, 0.0000, 140, 200, 255, 2, Original_Map:_Goodurden_<RoI>
 P 700.0000, 3700.0000, 0.0000, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P 700.0000, 3900.0000, 0.0000, 175, 175, 175, 2, http://www.eqmaps.info
 P 700.0000, 4100.0000, 0.0000, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P 700.0000, 4300.0000, 0.0000,  127, 64, 0,  2,  a_blood_drenched_hopling
-P 700.0000, 4500.0000, 0.0000,  127, 64, 0,  2,  Seetheker
+P 700.0000, 4300.0000, 0.0000, 255, 140, 0, 2, a_blood_drenched_hopling
+P 700.0000, 4500.0000, 0.0000, 255, 140, 0, 2, Seetheker

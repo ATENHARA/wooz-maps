@@ -21,10 +21,10 @@ P -6072.9214, 475.6529, 193.4884, 140, 200, 255, 2, Graktar_Bluehammer
 P -3229.8887, -2911.3594, 211.3690, 140, 200, 255, 2, Balix_Misteyes
 P -3272.5215, -2582.9185, 201.8674, 140, 200, 255, 2, Sir_Jevik_Isqual
 P -2271.0000, -1412.0000, -13.0000,  240, 127, 0,  2,  Lodizal_(Raid)
-P -6779.7427, 2198.3743, 145.8488,  127, 64, 0,  2,  dire_wolf_stalker_(Hunter,Roam)
-P -2252.2974, -1234.6825, 48.0869,  127, 64, 0,  2,  elder_spearguard_(Hunter,Roam)
-P -2871.3750, -2677.4048, 155.6635,  127, 64, 0,  2,  Midnight_(Hunter,Roam,HS)
-P -2864.4209, -1518.6426, 103.4631,  127, 64, 0,  2,  pulslating_icestorm_(Hunter,Roam)
+P -6779.7427, 2198.3743, 145.8488, 255, 140, 0, 2, dire_wolf_stalker_(Hunter,Roam)
+P -2252.2974, -1234.6825, 48.0869, 255, 140, 0, 2, elder_spearguard_(Hunter,Roam)
+P -2871.3750, -2677.4048, 155.6635, 255, 140, 0, 2, Midnight_(Hunter,Roam,HS)
+P -2864.4209, -1518.6426, 103.4631, 255, 140, 0, 2, pulslating_icestorm_(Hunter,Roam)
 P -7186.7393, 2401.7996, 140.8872,  0, 0, 240,  1,  GS:_Frozen_Pestle
 P -394.5609, -5316.5059, -18.3552, 140, 200, 255, 2, Nelet_Durzit
 P -351.3833, -5338.9595, -18.3549,  240, 0, 0,  3,  to_North_Ro_(Translocator_Kurione)

@@ -623,6 +623,6 @@ P 100, 1300, 0, 140, 200, 255, 2, The_Grand_Library_(MIRJ)
 P 100, 1500, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P 100, 1700, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P 100, 1900, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P 100, 2100, 0, 127, 64, 0, 2, Effusive_Construct
-P 100, 2300, 0, 127, 64, 0, 2, Fiendish_Invader
-P 100, 2500, 0, 127, 64, 0, 2, Siphoned_Manticore
+P 100, 2100, 0, 255, 140, 0, 2, Effusive_Construct
+P 100, 2300, 0, 255, 140, 0, 2, Fiendish_Invader
+P 100, 2500, 0, 255, 140, 0, 2, Siphoned_Manticore

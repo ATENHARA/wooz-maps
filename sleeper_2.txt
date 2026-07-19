@@ -659,5 +659,5 @@ P 200.0000, 4500.0000, 0.0000,  240, 127, 0,  2,  The_Progenitor
 P 200.0000, 4700.0000, 0.0000,  240, 127, 0,  2,  Tjudawos_the_Ancient
 P 200.0000, 4900.0000, 0.0000,  240, 127, 0,  2,  Vyskudra_the_Ancient
 P 200.0000, 5100.0000, 0.0000,  240, 127, 0,  2,  Zeixshi-Kar_the_Ancient
-P 200.0000, 5300.0000, 0.0000,  127, 64, 0,  2,  an_Ancient_Advocator
-P 200.0000, 5500.0000, 0.0000,  127, 64, 0,  2,  Drakeen_or_Drakonine_Caretaker,_Champion,_Defender,_Guardian,_Keeper_Sentinel,_or_Warden
+P 200.0000, 5300.0000, 0.0000, 255, 140, 0, 2, an_Ancient_Advocator
+P 200.0000, 5500.0000, 0.0000, 255, 140, 0, 2, Drakeen_or_Drakonine_Caretaker,_Champion,_Defender,_Guardian,_Keeper_Sentinel,_or_Warden

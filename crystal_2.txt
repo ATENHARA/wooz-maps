@@ -625,10 +625,10 @@ P 100, 1300, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P 100, 1500, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
 P 100, 1700, 0, 140, 200, 255, 2, Height_Filter:_25/25
 P 100, 1900, 0, 140, 200, 255, 2, Height_Filter:_10/10_(in_Dwarf_Keep)
-P 100, 2100, 0, 127, 64, 0, 2, a_crystal_lurker
-P 100, 2300, 0, 127, 64, 0, 2, a_crystal_purifier
-P 100, 2500, 0, 127, 64, 0, 2, a_focus_gem
-P 100, 2700, 0, 127, 64, 0, 2, a_gem_collector
-P 100, 2900, 0, 127, 64, 0, 2, a_hollow_crystal
-P 100, 3100, 0, 127, 64, 0, 2, a_life_leech
-P 100, 3300, 0, 127, 64, 0, 2, a_terror_carver
+P 100, 2100, 0, 255, 140, 0, 2, a_crystal_lurker
+P 100, 2300, 0, 255, 140, 0, 2, a_crystal_purifier
+P 100, 2500, 0, 255, 140, 0, 2, a_focus_gem
+P 100, 2700, 0, 255, 140, 0, 2, a_gem_collector
+P 100, 2900, 0, 255, 140, 0, 2, a_hollow_crystal
+P 100, 3100, 0, 255, 140, 0, 2, a_life_leech
+P 100, 3300, 0, 255, 140, 0, 2, a_terror_carver

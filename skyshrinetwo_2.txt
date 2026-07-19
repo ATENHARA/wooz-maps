@@ -811,10 +811,10 @@ P -200, 1100, 0, 240, 240, 0, 2, Drake_Scales
 P -200, 1300, 0, 240, 240, 0, 2, Crystallized_Anatomy
 P -200, 1500, 0, 240, 240, 0, 2, More_Lost_Journals
 P -200, 1700, 0, 240, 240, 0, 2, Draconic_Artifacts
-P -200, 1900, 0, 127, 64, 0, 2, a_blessed_racnar_PH=a_convincing_doomsayer
-P -200, 2100, 0, 127, 64, 0, 2, Dagarn_the_Destroyer_PH=a_pretentious_wurm
-P -200, 2300, 0, 127, 64, 0, 2, Lord_Koi`Doken_PH=an_onyx_conspirator
-P -200, 2500, 0, 127, 64, 0, 2, Professor_Atkru_PH=a_tenured_mentor
-P -200, 2700, 0, 127, 64, 0, 2, Shoen_the_Fanatic_PH=a_subservient_convert
-P -200, 2900, 0, 127, 64, 0, 2, Templeton_the_Clear_PH=a_crystal_abomination
-P -200, 3100, 0, 127, 64, 0, 2, Ziglark_Whisperwing_PH=an_obsidian_believer
+P -200, 1900, 0, 255, 140, 0, 2, a_blessed_racnar_PH=a_convincing_doomsayer
+P -200, 2100, 0, 255, 140, 0, 2, Dagarn_the_Destroyer_PH=a_pretentious_wurm
+P -200, 2300, 0, 255, 140, 0, 2, Lord_Koi`Doken_PH=an_onyx_conspirator
+P -200, 2500, 0, 255, 140, 0, 2, Professor_Atkru_PH=a_tenured_mentor
+P -200, 2700, 0, 255, 140, 0, 2, Shoen_the_Fanatic_PH=a_subservient_convert
+P -200, 2900, 0, 255, 140, 0, 2, Templeton_the_Clear_PH=a_crystal_abomination
+P -200, 3100, 0, 255, 140, 0, 2, Ziglark_Whisperwing_PH=an_obsidian_believer

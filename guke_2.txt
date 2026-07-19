@@ -623,6 +623,6 @@ P -300, 1300, 0, 140, 200, 255, 2, The_Foreboding_Prison_(GUKE)
 P -300, 1500, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P -300, 1700, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P -300, 1900, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P -300, 2100, 0, 127, 64, 0, 2, Abandoned_Jin_Sorcerer
-P -300, 2300, 0, 127, 64, 0, 2, Ghostly_Neophyte
-P -300, 2500, 0, 127, 64, 0, 2, Witness_of_Hate_Preacher
+P -300, 2100, 0, 255, 140, 0, 2, Abandoned_Jin_Sorcerer
+P -300, 2300, 0, 255, 140, 0, 2, Ghostly_Neophyte
+P -300, 2500, 0, 255, 140, 0, 2, Witness_of_Hate_Preacher

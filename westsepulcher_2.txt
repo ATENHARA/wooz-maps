@@ -697,9 +697,9 @@ L -120, 2790, 0, -150, 2790, 0, 255, 0, 0
 P -1300, 900, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P -1300, 1100, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P -1300, 1300, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P -1300, 1500, 0, 127, 64, 0, 2, Deepblade_PH=_a_myrmidon_of_Oseka
-P -1300, 1700, 0, 127, 64, 0, 2, Mindlock_PH=_golems
-P -1300, 1900, 0, 127, 64, 0, 2, The_Chosen_PH=_an_alsa_thelera_nonpareil/an_alsa_thelera_conquerer
-P -1300, 2100, 0, 127, 64, 0, 2, The_Cleaner_PH=_alarans
-P -1300, 2300, 0, 127, 64, 0, 2, The_Digger_PH=_a_worshipper_of_decay/a_fouled_warrior
-P -1300, 2500, 0, 127, 64, 0, 2, Wavecrasher_PH=_ser_alsa_hadal/a_ser_alsa_thel_hadal
+P -1300, 1500, 0, 255, 140, 0, 2, Deepblade_PH=_a_myrmidon_of_Oseka
+P -1300, 1700, 0, 255, 140, 0, 2, Mindlock_PH=_golems
+P -1300, 1900, 0, 255, 140, 0, 2, The_Chosen_PH=_an_alsa_thelera_nonpareil/an_alsa_thelera_conquerer
+P -1300, 2100, 0, 255, 140, 0, 2, The_Cleaner_PH=_alarans
+P -1300, 2300, 0, 255, 140, 0, 2, The_Digger_PH=_a_worshipper_of_decay/a_fouled_warrior
+P -1300, 2500, 0, 255, 140, 0, 2, Wavecrasher_PH=_ser_alsa_hadal/a_ser_alsa_thel_hadal

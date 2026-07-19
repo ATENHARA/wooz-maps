@@ -623,6 +623,6 @@ P 500, 700, 0, 140, 200, 255, 2, The_Hushed_Banquet_(MIRD)
 P 500, 900, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P 500, 1100, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P 500, 1300, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P 500, 1500, 0, 127, 64, 0, 2, Conscious_Magical_Essence
-P 500, 1700, 0, 127, 64, 0, 2, Flighty_Amalgam
-P 500, 1900, 0, 127, 64, 0, 2, Ravaged_Ancient_Holgresh
+P 500, 1500, 0, 255, 140, 0, 2, Conscious_Magical_Essence
+P 500, 1700, 0, 255, 140, 0, 2, Flighty_Amalgam
+P 500, 1900, 0, 255, 140, 0, 2, Ravaged_Ancient_Holgresh

@@ -13,5 +13,5 @@ P -1028.3250, 1513.7500, -0.7610,  255, 255, 255,  2,  Wall_Camp
 P 1077.3783, -1605.2365, 69.6785, 140, 200, 255, 2, Queen_Kvaknak_(Named)
 P -172.0810, -678.6394, -22.6116, 140, 200, 255, 2, Reothe
 P -835.9540, -169.6777, 21.6774, 140, 200, 255, 2, An_Ancient_Zelniak_(Named,Roam)
-P 1195.7340, -1047.5198, 64.8681,  127, 64, 0,  2,  a_Recuso_Hunter_(Hunter)
-P -791, 643, 64, 127, 64, 0, 2, A_Giant_Lightcrawler_(Hunter,Roam)
+P 1195.7340, -1047.5198, 64.8681, 255, 140, 0, 2, a_Recuso_Hunter_(Hunter)
+P -791, 643, 64, 255, 140, 0, 2, A_Giant_Lightcrawler_(Hunter,Roam)

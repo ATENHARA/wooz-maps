@@ -627,9 +627,9 @@ P 0.0000, 1600.0000, 0.0000,  240, 240, 0,  2,  A._Comfort_in_the_Deep_ground_sp
 P 0.0000, 1800.0000, 0.0000,  240, 240, 240,  2,  B._Keep_Keepsakes_ground_spawn
 P 0.0000, 2000.0000, 0.0000,  127, 0, 127,  2,  C._Tools_of_the_Assassins_ground_spawn_(Castle_Relic_HA)
 P 0.0000, 2200.0000, 0.0000, 140, 200, 255, 2, D._Keepsakes_of_the_Murdered_mob_drop
-P 0.0000, 2400.0000, 0.0000,  127, 64, 0,  2,  Commander_Alast_Degmar_PH=_Sub_Commander_Hob_Stetson
-P 0.0000, 2600.0000, 0.0000,  127, 64, 0,  2,  Enraged_Spectral_Reveler_PH=_an_angry_spectral_reveler
-P 0.0000, 2800.0000, 0.0000,  127, 64, 0,  2,  Frantic_Smith_PH=_a_confused_smith
-P 0.0000, 3000.0000, 0.0000,  127, 64, 0,  2,  Ghostly_Guard_(Castle_Relic_HA)
-P 0.0000, 3200.0000, 0.0000,  127, 64, 0,  2,  Horthin_Blackbook_PH=_a_dirty_digger
-P 0.0000, 3400.0000, 0.0000,  127, 64, 0,  2,  Psychotic_Prisoner_PH=_a_crazed_prisoner
+P 0.0000, 2400.0000, 0.0000, 255, 140, 0, 2, Commander_Alast_Degmar_PH=_Sub_Commander_Hob_Stetson
+P 0.0000, 2600.0000, 0.0000, 255, 140, 0, 2, Enraged_Spectral_Reveler_PH=_an_angry_spectral_reveler
+P 0.0000, 2800.0000, 0.0000, 255, 140, 0, 2, Frantic_Smith_PH=_a_confused_smith
+P 0.0000, 3000.0000, 0.0000, 255, 140, 0, 2, Ghostly_Guard_(Castle_Relic_HA)
+P 0.0000, 3200.0000, 0.0000, 255, 140, 0, 2, Horthin_Blackbook_PH=_a_dirty_digger
+P 0.0000, 3400.0000, 0.0000, 255, 140, 0, 2, Psychotic_Prisoner_PH=_a_crazed_prisoner

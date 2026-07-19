@@ -623,6 +623,6 @@ P 200, 1600, 0, 140, 200, 255, 2, The_Bloodied_Quarries_(RUJA)
 P 200, 1800, 0, 140, 200, 255, 2, Original_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P 200, 2000, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P 200, 2200, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P 200, 2400, 0, 127, 64, 0, 2, Slave_Marauder
-P 200, 2600, 0, 127, 64, 0, 2, Steelslave_Emissary
-P 200, 2800, 0, 127, 64, 0, 2, Steelslave_Visionary
+P 200, 2400, 0, 255, 140, 0, 2, Slave_Marauder
+P 200, 2600, 0, 255, 140, 0, 2, Steelslave_Emissary
+P 200, 2800, 0, 255, 140, 0, 2, Steelslave_Visionary

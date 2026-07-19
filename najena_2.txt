@@ -780,10 +780,10 @@ L 980, 2530, 0, 950, 2530, 0, 255, 0, 0
 P -200, 400, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P -200, 600, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P -200, 800, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P -200, 1000, 0, 127, 64, 0, 2, Drelzna
-P -200, 1200, 0, 127, 64, 0, 2, Ekeros
-P -200, 1400, 0, 127, 64, 0, 2, Najena
-P -200, 1600, 0, 127, 64, 0, 2, Officer_Grush
-P -200, 1800, 0, 127, 64, 0, 2, Rathyl
-P -200, 2000, 0, 127, 64, 0, 2, Trazdon
-P -200, 2200, 0, 127, 64, 0, 2, The_Widowmistress
+P -200, 1000, 0, 255, 140, 0, 2, Drelzna
+P -200, 1200, 0, 255, 140, 0, 2, Ekeros
+P -200, 1400, 0, 255, 140, 0, 2, Najena
+P -200, 1600, 0, 255, 140, 0, 2, Officer_Grush
+P -200, 1800, 0, 255, 140, 0, 2, Rathyl
+P -200, 2000, 0, 255, 140, 0, 2, Trazdon
+P -200, 2200, 0, 255, 140, 0, 2, The_Widowmistress

@@ -625,9 +625,9 @@ P 0, 1900, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
 P 0, 2100, 0, 240, 240, 0, 2, A._Shards_of_Life_ground_spawn
 P 0, 2300, 0, 240, 240, 240, 2, B._Ruins_of_Decay_ground_spawn
 P 0, 2500, 0, 127, 0, 127, 2, C._Grails_ground_spawn
-P 0, 2700, 0, 127, 64, 0, 2, Bhaly_Adan_(Bane_of_Decay_HA)
-P 0, 2900, 0, 127, 64, 0, 2, Bilemonger_(In_Defense_of_Health_HA)
-P 0, 3100, 0, 127, 64, 0, 2, Pestilent_Warmaster_(In_Defense_of_Health_HA)
-P 0, 3300, 0, 127, 64, 0, 2, Presusterous_(Defenders_of_the_Faith_HA)
-P 0, 3500, 0, 127, 64, 0, 2, Putrid_Brute_(In_Defense_of_Health_HA)
-P 0, 3700, 0, 127, 64, 0, 2, Vomitous_(In_Defense_of_Health_HA)
+P 0, 2700, 0, 255, 140, 0, 2, Bhaly_Adan_(Bane_of_Decay_HA)
+P 0, 2900, 0, 255, 140, 0, 2, Bilemonger_(In_Defense_of_Health_HA)
+P 0, 3100, 0, 255, 140, 0, 2, Pestilent_Warmaster_(In_Defense_of_Health_HA)
+P 0, 3300, 0, 255, 140, 0, 2, Presusterous_(Defenders_of_the_Faith_HA)
+P 0, 3500, 0, 255, 140, 0, 2, Putrid_Brute_(In_Defense_of_Health_HA)
+P 0, 3700, 0, 255, 140, 0, 2, Vomitous_(In_Defense_of_Health_HA)

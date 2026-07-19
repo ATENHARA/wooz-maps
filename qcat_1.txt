@@ -48,11 +48,11 @@ P -75.9986, -827.2316, -40.4129,  240, 240, 240,  2,  Shark
 P -127.0824, -743.2925, -40.4101,  240, 240, 240,  2,  The_Irontoe_Brigade_Rules_Norrath
 P 62.9523, -174.2727, -40.4395, 140, 200, 255, 2, Cubert_(Named)
 P -230.0000, -650.0000, 0.0000, 140, 200, 255, 2, Bloated_Alligator_(Named)
-P -208.6408, -573.0529, -41.6542,  127, 64, 0,  2,  an_injured_rat_(Hunter)
-P -328.9901, -344.0254, -41.6542,  127, 64, 0,  2,  a_nesting_rat_(Hunter)
-P -342.5142, -465.8773, -41.6542,  127, 64, 0,  2,  _a_shady_mercenary_(Hunter)
-P -148.2300, -667.0106, -54.4582,  127, 64, 0,  2,  an_undead_knight_(Hunter)
-P -10.0000, 55.0000, 0.0000,  127, 64, 0,  2,  an_undead_knight_(Hunter)
+P -208.6408, -573.0529, -41.6542, 255, 140, 0, 2, an_injured_rat_(Hunter)
+P -328.9901, -344.0254, -41.6542, 255, 140, 0, 2, a_nesting_rat_(Hunter)
+P -342.5142, -465.8773, -41.6542, 255, 140, 0, 2, _a_shady_mercenary_(Hunter)
+P -148.2300, -667.0106, -54.4582, 255, 140, 0, 2, an_undead_knight_(Hunter)
+P -10.0000, 55.0000, 0.0000, 255, 140, 0, 2, an_undead_knight_(Hunter)
 P 324.7450, -423.7233, -41.9667, 140, 200, 255, 2, Banker_Javen
 P 301.3532, -418.9999, -41.9667, 255, 230, 140, 2, Sragg_Bloodheart_(GM_Shadowknight)
 P 308.8776, -403.3052, -41.9667,  0, 127, 0,  2,  Dallisen_Xalladyr_(Spells)

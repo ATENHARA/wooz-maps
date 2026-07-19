@@ -634,4 +634,4 @@ P 500.0000, 5700.0000, 0.0000,  240, 127, 0,  2,  Pendubk_the_Turbulent
 P 500.0000, 5900.0000, 0.0000,  240, 127, 0,  2,  Solnebk_the_Unruly
 P 500.0000, 6100.0000, 0.0000,  240, 127, 0,  2,  Ston`Ruak,_Ancient_of_the_Trees
 P 500.0000, 6300.0000, 0.0000,  240, 127, 0,  2,  Zertuken_the_Unyielding
-P 500.0000, 6500.0000, 0.0000,  127, 64, 0,  2,  Dolshak_the_Ornery
+P 500.0000, 6500.0000, 0.0000, 255, 140, 0, 2, Dolshak_the_Ornery

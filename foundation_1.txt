@@ -11,7 +11,7 @@ P -1361.1978, 237.0751, -203.0672, 0, 127, 0, 2, Dermott_Satllagger_(Supplier:_B
 P 891.7787, -344.3022, -78.6973, 240, 240, 240, 2, Genari_Statue_Northern_Part_of_Eastern_Section
 P 826.2054, 331.6203, -88.5359, 240, 240, 240, 2, Genari_Statue_Southern_Part_of_Eastern_Section
 P -187.9068, -15.4610, -144.7084, 240, 240, 240, 2, Genari_Statue_Central_Part_of_Central_Section
-P -18.2905, -617.8273, -148.1004, 127, 64, 0, 2, Creeping_Mold_(Named)
+P -18.2905, -617.8273, -148.1004, 255, 140, 0, 2, Creeping_Mold_(Named)
 P 204.5163, -255.7555, -139.9282, 240, 240, 240, 2, Genari_Statue_near_Waterfall
 P -202.0638, -630.8247, -147.2773, 0, 0, 255, 1, Scout_Farm
 P -392.1144, -165.7255, -157.7445, 0, 0, 255, 1, Scout_Farm

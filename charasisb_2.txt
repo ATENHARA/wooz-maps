@@ -623,8 +623,8 @@ P -500.0000, 700.0000, 0.0000, 140, 200, 255, 2, Original_Map:_Goodurden_<RoI>
 P -500.0000, 900.0000, 0.0000, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P -500.0000, 1100.0000, 0.0000, 175, 175, 175, 2, http://www.eqmaps.info
 P -500.0000, 1300.0000, 0.0000, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P -500.0000, 1500.0000, 0.0000,  127, 64, 0,  2,  a_Kar`Zok_grave_robber_PH=a_Krellnakor_filcher,a_Fereth_appraiser
-P -500.0000, 1700.0000, 0.0000,  127, 64, 0,  2,  a_Kar`Zok_infiltrator_PH=a_Krellnakor_enforcer,a_Wlthan_thief,_a_Krellnakor_scavenger,an_Arcron_lifter
-P -500.0000, 1900.0000, 0.0000,  127, 64, 0,  2,  Ancient_Apparition_PH=an_Arisen_apparition
-P -500.0000, 2100.0000, 0.0000,  127, 64, 0,  2,  Arisen_Gloriant_Kra`du_PH=an_Arisen_steward,an_Elevated_skeleton
-P -500.0000, 2300.0000, 0.0000,  127, 64, 0,  2,  Xalgoz_the_Arisen_PH=an_Arisen_ritualist,an_Exalted_spirit
+P -500.0000, 1500.0000, 0.0000, 255, 140, 0, 2, a_Kar`Zok_grave_robber_PH=a_Krellnakor_filcher,a_Fereth_appraiser
+P -500.0000, 1700.0000, 0.0000, 255, 140, 0, 2, a_Kar`Zok_infiltrator_PH=a_Krellnakor_enforcer,a_Wlthan_thief,_a_Krellnakor_scavenger,an_Arcron_lifter
+P -500.0000, 1900.0000, 0.0000, 255, 140, 0, 2, Ancient_Apparition_PH=an_Arisen_apparition
+P -500.0000, 2100.0000, 0.0000, 255, 140, 0, 2, Arisen_Gloriant_Kra`du_PH=an_Arisen_steward,an_Elevated_skeleton
+P -500.0000, 2300.0000, 0.0000, 255, 140, 0, 2, Xalgoz_the_Arisen_PH=an_Arisen_ritualist,an_Exalted_spirit

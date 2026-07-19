@@ -54,6 +54,6 @@ L 637.3, -90.0, 0.0, 637.3, -20.0, 0.0, 255, 0, 0
 P -4300, 3300, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P -4300, 3500, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P -4300, 3700, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P -4300, 3900, 0, 127, 64, 0, 2, an_ancient_cyclops
-P -4300, 4100, 0, 127, 64, 0, 2, a_goblin_headmaster
-P -4300, 4300, 0, 127, 64, 0, 2, Mojo_the_Tainted
+P -4300, 3900, 0, 255, 140, 0, 2, an_ancient_cyclops
+P -4300, 4100, 0, 255, 140, 0, 2, a_goblin_headmaster
+P -4300, 4300, 0, 255, 140, 0, 2, Mojo_the_Tainted

@@ -623,6 +623,6 @@ P 100, 600, 0, 140, 200, 255, 2, The_Root_Garden_(GUKG)
 P 100, 800, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P 100, 1000, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P 100, 1200, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P 100, 1400, 0, 127, 64, 0, 2, Cauldron_of_Hate_Dread_Guard
-P 100, 1600, 0, 127, 64, 0, 2, Corrupted_Oculus
-P 100, 1800, 0, 127, 64, 0, 2, Manic_Deathcaller
+P 100, 1400, 0, 255, 140, 0, 2, Cauldron_of_Hate_Dread_Guard
+P 100, 1600, 0, 255, 140, 0, 2, Corrupted_Oculus
+P 100, 1800, 0, 255, 140, 0, 2, Manic_Deathcaller

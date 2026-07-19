@@ -680,7 +680,7 @@ P -300.0000, 2300.0000, 0.0000,  240, 127, 0,  2,  Manaetic_Prototype_IX
 P -300.0000, 2500.0000, 0.0000,  240, 127, 0,  2,  Manaetic_Prototype_X
 P -300.0000, 2700.0000, 0.0000,  240, 127, 0,  2,  Manaetic_Prototype_XI
 P -300.0000, 2900.0000, 0.0000,  240, 127, 0,  2,  Xanamech_Nezmirthafen
-P -300.0000, 3100.0000, 0.0000,  127, 64, 0,  2,  Junk_Beast_Roams_the_loop
-P -300.0000, 3300.0000, 0.0000,  127, 64, 0,  2,  a_malfunctioning_system_PH=any_robot_outside
-P -300.0000, 3500.0000, 0.0000,  127, 64, 0,  2,  a_rust_covered_model_PH=any_robot_outside
-P -300.0000, 3700.0000, 0.0000,  127, 64, 0,  2,  a_corroded_prototype_PH=any_robot_outside
+P -300.0000, 3100.0000, 0.0000, 255, 140, 0, 2, Junk_Beast_Roams_the_loop
+P -300.0000, 3300.0000, 0.0000, 255, 140, 0, 2, a_malfunctioning_system_PH=any_robot_outside
+P -300.0000, 3500.0000, 0.0000, 255, 140, 0, 2, a_rust_covered_model_PH=any_robot_outside
+P -300.0000, 3700.0000, 0.0000, 255, 140, 0, 2, a_corroded_prototype_PH=any_robot_outside

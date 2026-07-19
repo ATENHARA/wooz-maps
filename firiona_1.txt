@@ -22,7 +22,7 @@ P -1388.5175, 4394.8403, -105.1686,  240, 0, 0,  3,  to_Timorous_Deep_(Transloca
 P -2715.4495, 1789.5480, -103.5767, 140, 200, 255, 2, Socaldoor_Waycrest
 P -2459.0811, 575.5236, -24.7076, 140, 200, 255, 2, Brizzana_Kellgo
 P -3410.1636, 1901.5304, -11.9212,  240, 240, 0,  2,  Tunnel_to_City
-P -2566.7317, -1911.9164, 23.0056,  127, 64, 0,  2,  The_Voidsoul_Possessed_(Named,Roam)
+P -2566.7317, -1911.9164, 23.0056, 255, 140, 0, 2, The_Voidsoul_Possessed_(Named,Roam)
 P -1648.4789, -540.1011, 6.4698, 140, 200, 255, 2, Dragool_Waggletongue_(Roam)
 P -3285.8230, -1334.4019, 189.5354, 140, 200, 255, 2, Telligron_Forestrunner
 P -87.1609, -1836.1720, -1.0134, 140, 200, 255, 2, Jithanderan_Runeseeker

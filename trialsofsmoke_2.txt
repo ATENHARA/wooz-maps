@@ -663,9 +663,9 @@ P -108.0000, 1058.0000, 0.0000, 140, 200, 255, 2, A._Tried_and_Failed_mob_drop
 P -108.0000, 1258.0000, 0.0000,  240, 240, 0,  2,  B._Feeling_Rocks_ground_spawn
 P -108.0000, 1458.0000, 0.0000, 140, 200, 255, 2, C._Dulled_Hues_mob_drop
 P -108.0000, 1658.0000, 0.0000,  240, 240, 0,  2,  D._Fading_Embers_ground_spawn
-P -108.0000, 1858.0000, 0.0000,  127, 64, 0,  2,  Dirge_of_Lost_Horizons_PH=a_fading_lord
-P -108.0000, 2058.0000, 0.0000,  127, 64, 0,  2,  Savage_Irony_of_Will_PH=a_true_flame
-P -108.0000, 2258.0000, 0.0000,  127, 64, 0,  2,  Silent_Silken_Song_PH=a_wasting_breezewing
-P -108.0000, 2458.0000, 0.0000,  127, 64, 0,  2,  Soothing_Wings_of_Mist_PH=a_true_wind
-P -108.0000, 2658.0000, 0.0000,  127, 64, 0,  2,  Strength_of_Undefeated_Starfall_PH=a_soot_steed
-P -108.0000, 2858.0000, 0.0000,  127, 64, 0,  2,  Wandering_Spring_Soul_PH=a_dispersing_windlord
+P -108.0000, 1858.0000, 0.0000, 255, 140, 0, 2, Dirge_of_Lost_Horizons_PH=a_fading_lord
+P -108.0000, 2058.0000, 0.0000, 255, 140, 0, 2, Savage_Irony_of_Will_PH=a_true_flame
+P -108.0000, 2258.0000, 0.0000, 255, 140, 0, 2, Silent_Silken_Song_PH=a_wasting_breezewing
+P -108.0000, 2458.0000, 0.0000, 255, 140, 0, 2, Soothing_Wings_of_Mist_PH=a_true_wind
+P -108.0000, 2658.0000, 0.0000, 255, 140, 0, 2, Strength_of_Undefeated_Starfall_PH=a_soot_steed
+P -108.0000, 2858.0000, 0.0000, 255, 140, 0, 2, Wandering_Spring_Soul_PH=a_dispersing_windlord

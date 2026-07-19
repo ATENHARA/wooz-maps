@@ -623,6 +623,6 @@ P 200, 900, 0, 140, 200, 255, 2, The_Wind_Bridges_(RUJC)
 P 200, 1100, 0, 140, 200, 255, 2, Original_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P 200, 1300, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P 200, 1500, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P 200, 1700, 0, 127, 64, 0, 2, Captive_Coin_Bank_Robber
-P 200, 1900, 0, 127, 64, 0, 2, Enslaved_Mystic
-P 200, 2100, 0, 127, 64, 0, 2, Steelslave_War_Criminal
+P 200, 1700, 0, 255, 140, 0, 2, Captive_Coin_Bank_Robber
+P 200, 1900, 0, 255, 140, 0, 2, Enslaved_Mystic
+P 200, 2100, 0, 255, 140, 0, 2, Steelslave_War_Criminal

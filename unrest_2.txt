@@ -699,8 +699,8 @@ P 0.0000, 500.0000, 0.0000, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Ca
 P 0.0000, 700.0000, 0.0000, 175, 175, 175, 2, http://www.eqmaps.info
 P 0.0000, 900.0000, 0.0000, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
 P 0.0000, 1100.0000, 0.0000, 140, 200, 255, 2, Height_Filter:_12/13
-P 0.0000, 1300.0000, 0.0000,  127, 64, 0,  2,  Garanel_Rucksif
-P 0.0000, 1500.0000, 0.0000,  127, 64, 0,  2,  a_reanimating_hand
-P 0.0000, 1700.0000, 0.0000,  127, 64, 0,  2,  reclusive_ghoul_magnus
-P 0.0000, 1900.0000, 0.0000,  127, 64, 0,  2,  an_undead_barkeep
-P 0.0000, 2100.0000, 0.0000,  127, 64, 0,  2,  an_undead_knight_of_Unrest
+P 0.0000, 1300.0000, 0.0000, 255, 140, 0, 2, Garanel_Rucksif
+P 0.0000, 1500.0000, 0.0000, 255, 140, 0, 2, a_reanimating_hand
+P 0.0000, 1700.0000, 0.0000, 255, 140, 0, 2, reclusive_ghoul_magnus
+P 0.0000, 1900.0000, 0.0000, 255, 140, 0, 2, an_undead_barkeep
+P 0.0000, 2100.0000, 0.0000, 255, 140, 0, 2, an_undead_knight_of_Unrest

@@ -65,9 +65,9 @@ P 100.0000, 3800.0000, 0.0000,  240, 127, 0,  2,  Gakamenial_Fir`Disralsi
 P 100.0000, 4000.0000, 0.0000,  240, 127, 0,  2,  Queen_Silandria
 P 100.0000, 4200.0000, 0.0000,  240, 127, 0,  2,  Rinturion_Windblade
 P 100.0000, 4400.0000, 0.0000,  240, 127, 0,  2,  Xegony_the_Queen_of_Air
-P 100.0000, 4600.0000, 0.0000,  127, 64, 0,  2,  Calebgrothiel
-P 100.0000, 4800.0000, 0.0000,  127, 64, 0,  2,  Inlokher_the_Warlord_Kill_A_Castellan_of_Air_to_spawn
-P 100.0000, 5000.0000, 0.0000,  127, 64, 0,  2,  Lossenmachar
-P 100.0000, 5200.0000, 0.0000,  127, 64, 0,  2,  a_phoenix_breezewing
-P 100.0000, 5400.0000, 0.0000,  127, 64, 0,  2,  a_phoenix_searedwing
-P 100.0000, 5600.0000, 0.0000,  127, 64, 0,  2,  Swirling_Elemental_Force
+P 100.0000, 4600.0000, 0.0000, 255, 140, 0, 2, Calebgrothiel
+P 100.0000, 4800.0000, 0.0000, 255, 140, 0, 2, Inlokher_the_Warlord_Kill_A_Castellan_of_Air_to_spawn
+P 100.0000, 5000.0000, 0.0000, 255, 140, 0, 2, Lossenmachar
+P 100.0000, 5200.0000, 0.0000, 255, 140, 0, 2, a_phoenix_breezewing
+P 100.0000, 5400.0000, 0.0000, 255, 140, 0, 2, a_phoenix_searedwing
+P 100.0000, 5600.0000, 0.0000, 255, 140, 0, 2, Swirling_Elemental_Force

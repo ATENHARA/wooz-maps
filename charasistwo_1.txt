@@ -19,10 +19,10 @@ P 275.7727, -45.6043, -8.7655,  240, 240, 0,  2,  TRAP:_Carpet
 P 35.0905, -274.2331, -27.6886,  240, 240, 0,  2,  TRAP:_Carpet
 P 1.1344, 367.7433, -13.8177,  240, 240, 0,  2,  TRAP:_Carpet
 P -242.5736, 170.9954, -8.7655,  240, 240, 0,  2,  TRAP:_Carpet
-P -37.1431, 268.7703, -18.7655,  127, 64, 0,  2,  The_Arisen_Dragoon_T`Vem_(Hunter)
-P -23.9178, 571.8017, -17.8255,  127, 64, 0,  2,  Vermistipus_(Hunter)
-P -709.4019, 58.6068, -7.7496,  127, 64, 0,  2,  The_Arisen_Admiral_Tylix_(Hunter)
-P 423.4517, -9.2378, -8.7655,  127, 64, 0,  2,  Nureya_Arisen_(Hunter)
-P -594.1729, 174.4681, -38.4975,  127, 64, 0,  2,  Arisen_Mentor_Sishallan_(Hunter)
-P 784.5972, -137.7630, -32.8386,  127, 64, 0,  2,  The_Arisen_Admiral_Tylix_(Hunter)
-P -70.0828, 95.2947, -235.7778,  127, 64, 0,  2,  Arisen_Fenistra_(Hunter)
+P -37.1431, 268.7703, -18.7655, 255, 140, 0, 2, The_Arisen_Dragoon_T`Vem_(Hunter)
+P -23.9178, 571.8017, -17.8255, 255, 140, 0, 2, Vermistipus_(Hunter)
+P -709.4019, 58.6068, -7.7496, 255, 140, 0, 2, The_Arisen_Admiral_Tylix_(Hunter)
+P 423.4517, -9.2378, -8.7655, 255, 140, 0, 2, Nureya_Arisen_(Hunter)
+P -594.1729, 174.4681, -38.4975, 255, 140, 0, 2, Arisen_Mentor_Sishallan_(Hunter)
+P 784.5972, -137.7630, -32.8386, 255, 140, 0, 2, The_Arisen_Admiral_Tylix_(Hunter)
+P -70.0828, 95.2947, -235.7778, 255, 140, 0, 2, Arisen_Fenistra_(Hunter)

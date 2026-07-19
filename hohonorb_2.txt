@@ -623,4 +623,4 @@ P -1300.0000, 800.0000, 0.0000, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger
 P -1300.0000, 1000.0000, 0.0000, 175, 175, 175, 2, http://www.eqmaps.info
 P -1300.0000, 1200.0000, 0.0000, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
 P -1300.0000, 1400.0000, 0.0000,  240, 127, 0,  2,  Lord_Mithaniel_Marr
-P -1300.0000, 1600.0000, 0.0000,  127, 64, 0,  2,  A_Wrulon_Protector
+P -1300.0000, 1600.0000, 0.0000, 255, 140, 0, 2, A_Wrulon_Protector

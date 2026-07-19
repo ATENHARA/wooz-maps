@@ -679,9 +679,9 @@ P -1700, 1500, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
 P -1700, 1700, 0, 240, 127, 0, 2, Grieg_Veneficus
 P -1700, 1900, 0, 240, 127, 0, 2, Praetorian_Myral
 P -1700, 2100, 0, 240, 127, 0, 2, Servitor_of_Luclin
-P -1700, 2300, 0, 127, 64, 0, 2, Amnarra_Nogzabin
-P -1700, 2500, 0, 127, 64, 0, 2, Bronus
-P -1700, 2700, 0, 127, 64, 0, 2, Deoreo_Bexuarrana
-P -1700, 2900, 0, 127, 64, 0, 2, Hyraja_Mazarduruk
-P -1700, 3100, 0, 127, 64, 0, 2, Kallian_Agarnuzum
-P -1700, 3300, 0, 127, 64, 0, 2, Khemot_Agarthizar
+P -1700, 2300, 0, 255, 140, 0, 2, Amnarra_Nogzabin
+P -1700, 2500, 0, 255, 140, 0, 2, Bronus
+P -1700, 2700, 0, 255, 140, 0, 2, Deoreo_Bexuarrana
+P -1700, 2900, 0, 255, 140, 0, 2, Hyraja_Mazarduruk
+P -1700, 3100, 0, 255, 140, 0, 2, Kallian_Agarnuzum
+P -1700, 3300, 0, 255, 140, 0, 2, Khemot_Agarthizar

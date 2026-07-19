@@ -55,7 +55,7 @@ P -2000, 3200, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P -2000, 3400, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P -2000, 3600, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
 P -2000, 3800, 0, 240, 127, 0, 2, Gorenaire
-P -2000, 4000, 0, 127, 64, 0, 2, a_dread_widow
-P -2000, 4200, 0, 127, 64, 0, 2, a_mountain_giant_patriarch
-P -2000, 4400, 0, 127, 64, 0, 2, a_ravishing_drolvarg
-P -2000, 4600, 0, 127, 64, 0, 2, wraithbone_champion
+P -2000, 4000, 0, 255, 140, 0, 2, a_dread_widow
+P -2000, 4200, 0, 255, 140, 0, 2, a_mountain_giant_patriarch
+P -2000, 4400, 0, 255, 140, 0, 2, a_ravishing_drolvarg
+P -2000, 4600, 0, 255, 140, 0, 2, wraithbone_champion

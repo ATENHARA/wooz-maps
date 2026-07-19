@@ -1,8 +1,8 @@
 P 0.0000, -7.0000, -5.6651, 255, 0, 0, 3, to_House_of_Thule
-P -160.6373, 49.2617, -28.6548, 127, 64, 0, 2, Tome_of_the_Fallen_(Hunter)
-P 157.4586, -125.1183, 55.4483, 128, 64, 0, 2, Chronicler_Cerro_(Hunter)
-P -128.1777, 21.3719, -28.7003, 127, 64, 0, 2, Curator_Madja_(Hunter,Roam)
-P 138.8242, 85.8776, 89.4276, 127, 64, 0, 2, Head_Librarian_Matilida_(Hunter)
+P -160.6373, 49.2617, -28.6548, 255, 140, 0, 2, Tome_of_the_Fallen_(Hunter)
+P 157.4586, -125.1183, 55.4483, 255, 140, 0, 2, Chronicler_Cerro_(Hunter)
+P -128.1777, 21.3719, -28.7003, 255, 140, 0, 2, Curator_Madja_(Hunter,Roam)
+P 138.8242, 85.8776, 89.4276, 255, 140, 0, 2, Head_Librarian_Matilida_(Hunter)
 P 0.0000, 0.0000, 0.0000, 0, 0, 240, 1, GS:_Tome_of_Destruction
 P -107.1601, 39.1315, -27.6426, 0, 0, 240, 1, GS:_Tome_of_Destruction
 P -31.1975, -77.9989, 35.2732, 0, 0, 240, 1, GS:_Vol_612
@@ -20,5 +20,5 @@ P -277.1994, -57.2871, -5.9509, 0, 128, 128, 2, Tarlyn_Caelith_(Quest)
 P -212.0504, -56.8372, -5.9557, 140, 200, 255, 2, abs._scholar
 P -243.0716, -149.9596, -5.4467, 0, 128, 128, 2, Varesa_K`Zen_(Quest)
 P 7.5843, -103.3774, -3.1903, 0, 128, 128, 2, Curator_Risald_(Quest)
-P 9.5854, -110.6582, 33.2485, 127, 64, 0, 2, Ardull_the_Watcher_(Hunter)
-P -23.4028, -73.7443, 33.2363, 127, 64, 0, 2, Archivist_Herrdar_(Hunter)
+P 9.5854, -110.6582, 33.2485, 255, 140, 0, 2, Ardull_the_Watcher_(Hunter)
+P -23.4028, -73.7443, 33.2363, 255, 140, 0, 2, Archivist_Herrdar_(Hunter)

@@ -623,6 +623,6 @@ P 100, 1600, 0, 140, 200, 255, 2, The_Forgotten_Wastes_(MIRF)
 P 100, 1800, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P 100, 2000, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P 100, 2200, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P 100, 2400, 0, 127, 64, 0, 2, Crystalline_Mutation
-P 100, 2600, 0, 127, 64, 0, 2, Fussy_Amalgam
-P 100, 2800, 0, 127, 64, 0, 2, Recreated_Holgresh
+P 100, 2400, 0, 255, 140, 0, 2, Crystalline_Mutation
+P 100, 2600, 0, 255, 140, 0, 2, Fussy_Amalgam
+P 100, 2800, 0, 255, 140, 0, 2, Recreated_Holgresh

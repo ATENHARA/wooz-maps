@@ -54,9 +54,9 @@ L 637.3, -90.0, 0.0, 637.3, -20.0, 0.0, 255, 0, 0
 P -200, 1100, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P -200, 1300, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P -200, 1500, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P -200, 1700, 0, 127, 64, 0, 2, A_Fungoid_Worker
-P -200, 1900, 0, 127, 64, 0, 2, A_Mature_Fungoid
-P -200, 2100, 0, 127, 64, 0, 2, A_Netherbian_Swarmcaller
-P -200, 2300, 0, 127, 64, 0, 2, The_Swarm_Leader
-P -200, 2500, 0, 127, 64, 0, 2, A_Trog_Hunter
-P -200, 2700, 0, 127, 64, 0, 2, The_Trog_King
+P -200, 1700, 0, 255, 140, 0, 2, A_Fungoid_Worker
+P -200, 1900, 0, 255, 140, 0, 2, A_Mature_Fungoid
+P -200, 2100, 0, 255, 140, 0, 2, A_Netherbian_Swarmcaller
+P -200, 2300, 0, 255, 140, 0, 2, The_Swarm_Leader
+P -200, 2500, 0, 255, 140, 0, 2, A_Trog_Hunter
+P -200, 2700, 0, 255, 140, 0, 2, The_Trog_King

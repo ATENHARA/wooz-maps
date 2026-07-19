@@ -33,11 +33,11 @@ P 1646.7798, 328.3306, -0.3503, 140, 200, 255, 2, Averna_Eisley
 P -1205.6117, 311.8251, -3.5189, 140, 200, 255, 2, Vynn_Thrildur
 P -774.6448, -1590.0680, -3.5143, 140, 200, 255, 2, Mithious_Scratch
 P -2941.8931, -1935.2969, 11.6779, 140, 200, 255, 2, Telara
-P -18.3980, 224.7534, 3.8047,  127, 64, 0,  2,  Crookstinger_(Hunter,Roam)
-P -814.8693, 248.7841, -5.0292,  127, 64, 0,  2,  Mina_Glimmerwing_(Hunter,Roam)
-P -3388.2593, 69.5791, -3.4410,  127, 64, 0,  2,  Old_Dimshimmer_(Hunter,Roam,HS)
-P -3146.0757, -1417.7085, 28.9436,  127, 64, 0,  2,  Queen_Nasheeji_(Hunter)
-P -2469.7449, -1058.2605, 28.9687,  127, 64, 0,  2,  Whimsy_Larkwitter_(Hunter,Roam,HS)
+P -18.3980, 224.7534, 3.8047, 255, 140, 0, 2, Crookstinger_(Hunter,Roam)
+P -814.8693, 248.7841, -5.0292, 255, 140, 0, 2, Mina_Glimmerwing_(Hunter,Roam)
+P -3388.2593, 69.5791, -3.4410, 255, 140, 0, 2, Old_Dimshimmer_(Hunter,Roam,HS)
+P -3146.0757, -1417.7085, 28.9436, 255, 140, 0, 2, Queen_Nasheeji_(Hunter)
+P -2469.7449, -1058.2605, 28.9687, 255, 140, 0, 2, Whimsy_Larkwitter_(Hunter,Roam,HS)
 P 1818.4424, -1153.4054, 14.4681,  0, 0, 240,  1,  GS:_Morning_Dew
 P -584.0964, 297.5143, 31.9180,  0, 0, 240,  1,  GS:_Morning_Dew
 P -2246.6045, -42.5654, -3.7390, 140, 200, 255, 2, Larik_Z`Vole

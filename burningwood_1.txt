@@ -15,8 +15,8 @@ P 399, -1178, -381, 240, 240, 240, 2, Skeletons_and_Gorillas
 P 621, 4613, 198, 140, 200, 255, 2, Doacaan_Drakay
 P 3784, 102, -310, 140, 200, 255, 2, Nezekezena_(Named)
 P 2896, -595, -377, 140, 200, 255, 2, Nadira_(Roam)
-P -1167, -902, -270, 127, 64, 0, 2, Gorgul_Paclock_(Hunter)
-P -631, 1095, -379, 127, 64, 0, 2, Gullerback_(Hunter
-P 3948, 1145, -52, 127, 64, 0, 2, Korasal_Klyseer_(Hunter)
-P 2550, 474, -379, 127, 64, 0, 2, Phurzikon_(Hunter)
-P 4204, -6623, -233, 127, 64, 0, 2, Korasal_Klyseer_(Hunter)
+P -1167, -902, -270, 255, 140, 0, 2, Gorgul_Paclock_(Hunter)
+P -631, 1095, -379, 255, 140, 0, 2, Gullerback_(Hunter
+P 3948, 1145, -52, 255, 140, 0, 2, Korasal_Klyseer_(Hunter)
+P 2550, 474, -379, 255, 140, 0, 2, Phurzikon_(Hunter)
+P 4204, -6623, -233, 255, 140, 0, 2, Korasal_Klyseer_(Hunter)

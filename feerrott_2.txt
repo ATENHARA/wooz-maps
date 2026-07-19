@@ -622,9 +622,9 @@ L 1080, 4450, 0, 1050, 4450, 0, 255, 0, 0
 P -100, 2800, 0, 175, 175, 175, 2, Revised_Map:_Brewall_Rainsiger_(Cazic-Thule)
 P -100, 3000, 0, 175, 175, 175, 2, http://www.eqmaps.info
 P -100, 3200, 0, 175, 175, 175, 2, Return_of_the_Exiled_(www.roteguild.org)
-P -100, 3400, 0, 127, 64, 0, 2, a_Silverflank_guardian
-P -100, 3600, 0, 127, 64, 0, 2, Tae_Ew_Archon
-P -100, 3800, 0, 127, 64, 0, 2, Tae_Ew_Diviner
-P -100, 4000, 0, 127, 64, 0, 2, a_Tae_Ew_Spiritualist
-P -100, 4200, 0, 127, 64, 0, 2, Tae_Ew_Templar
-P -100, 4400, 0, 127, 64, 0, 2, Thul_Tae_Ew_Cenobite
+P -100, 3400, 0, 255, 140, 0, 2, a_Silverflank_guardian
+P -100, 3600, 0, 255, 140, 0, 2, Tae_Ew_Archon
+P -100, 3800, 0, 255, 140, 0, 2, Tae_Ew_Diviner
+P -100, 4000, 0, 255, 140, 0, 2, a_Tae_Ew_Spiritualist
+P -100, 4200, 0, 255, 140, 0, 2, Tae_Ew_Templar
+P -100, 4400, 0, 255, 140, 0, 2, Thul_Tae_Ew_Cenobite
