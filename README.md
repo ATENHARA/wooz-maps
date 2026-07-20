@@ -84,7 +84,10 @@ The rest of the pack is Brewall's Dark Maps as a base, with the pack-wide color 
 
 - Not every zone has been individually verified for layout accuracy — the zones listed above got full manual review, the rest inherit Brewall's original geometry.
 - A handful of zones have two internal shortnames (a modern redesign and an older "classic" version); if you notice a zone with black or missing text, it may be the classic-named file that hasn't been reworked yet.
-- This is a personal project without an issue tracker or PR process — if you find something worth fixing, feel free to fork it (see License).
+
+## Found a problem?
+
+[Open an issue](https://github.com/ATENHARA/wooz-maps/issues/new) — wrong layouts, hard-to-read colors, missing NPCs, anything. Screenshots and in-game coordinates help. See [CONTRIBUTING.md](CONTRIBUTING.md) for details (short version: issues welcome, PRs are not accepted).
 
 ## License
 
