@@ -24,7 +24,7 @@ P -307.8201, -880.4921, 20.5685, 255, 140, 0, 2, Neplin_the_Oceanlord_(Hunter)
 P -274.5226, -549.2085, 9.7172, 255, 140, 0, 2, Old_Spirespine_(Hunter,Roam)
 P -562.5596, -801.5412, 8.2689, 255, 140, 0, 2, Old_Spirespine_(Hunter,Roam)
 P 323.2449, -809.5557, -96.2943, 255, 140, 0, 2, Whitebelly_(Hunter)
-P 57.3465, -46.7975, 8.7201,  0, 127, 127,  2,  Mough_Kyslaz_(Heroic_Adventure)
+P 57.3465, -46.7975, 8.7201, 127, 255, 0, 2, Mough_Kyslaz_(Heroic_Adventure)
 P 3.8194, -851.7367, 88.0345, 140, 200, 255, 2, Captain_Janesworth
 P 395.7926, -913.1481, 6.5915, 255, 140, 0, 2, Elizabeth_Ruffleberg_(Hunter)
 P 371.1722, -809.5668, -116.3929,  240, 240, 240,  2,  Passage_high_on_wall

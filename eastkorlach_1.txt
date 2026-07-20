@@ -38,9 +38,9 @@ P 859.9880, 640.2480, 41.9520,  0, 127, 0,  2,  Slave_Trader_Zentril_(General)
 P 837.0480, 523.3890, 41.9520,  0, 240, 240,  2,  Boss_Harrowan_(Raid)
 P 826.6479, 546.1670, 41.9520,  0, 127, 0,  2,  Slave_Trader_Ranfisar_(General)
 P 758.3160, 614.3000, 42.6550, 140, 200, 255, 2, Slave_Trader_Zillvinshin
-P 734.9550, 614.8350, 42.9300,  0, 127, 127,  2,  Slave_Trader_Arad_(Mission)
+P 734.9550, 614.8350, 42.9300, 127, 255, 0, 2, Slave_Trader_Arad_(Mission)
 P 817.5470, 632.5060, 41.9520,  0, 127, 0,  2,  Slave_Trader_Tivlin_(General)
-P 796.2780, 608.1639, 41.9520,  0, 127, 127,  2,  Slave_Trader_Bologore_(Mission)
+P 796.2780, 608.1639, 41.9520, 127, 255, 0, 2, Slave_Trader_Bologore_(Mission)
 P 771.6680, 580.6540, 41.9520,  255, 210, 0,  2,  Quartermaster_Halifain_(Banker)
 P 702.4360, -154.9090, -11.0420, 140, 200, 255, 2, Vorgin
 P 787.8300, -186.1270, -16.5170, 140, 200, 255, 2, Arislo
@@ -50,5 +50,5 @@ P 683.3077, 1198.3971, -81.0252, 255, 140, 0, 2, The_Deep_Crawler
 P -785.2557, -361.9892, -19.4441,  240, 0, 0,  3,  to_Stoneroot_Falls
 P 383.0473, 1123.6609, -16.0524, 30, 144, 255, 1, GS:_Large_Corathus_Fungus
 P 317.8624, 1413.5575, 182.1083, 140, 200, 255, 2, a_rotting_warchest
-P 715.6998, -1330.1006, -15.5092,  0, 127, 127,  2,  an_old_shiliskin_fortune_teller_(Quest)
+P 715.6998, -1330.1006, -15.5092, 127, 255, 0, 2, an_old_shiliskin_fortune_teller_(Quest)
 P 921.1130, 1274.2311, 184.2601,  240, 240, 240,  2,  Waterfall

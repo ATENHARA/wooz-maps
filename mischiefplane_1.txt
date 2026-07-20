@@ -61,8 +61,8 @@ P -25.0813, 640.3627, 92.4916,  240, 240, 0,  2,  Invisible_Bridge
 P 390.7650, 627.3379, 92.4866,  240, 240, 240,  2,  Fake_Bridge
 P 849.2659, 633.7694, 90.9707,  240, 240, 0,  2,  Invisible_Bridge
 P 838.8309, -827.5330, 124.9404, 140, 200, 255, 2, Leea_Brumplefoot
-P 1227.5781, 77.6996, 90.9717,  0, 127, 127,  2,  Clukker_The_Crazy_(Spontaneous_Generator)
-P 1197.5519, 947.2438, 92.4894,  0, 127, 127,  2,  Nahas_the_Treasure_Hunter
+P 1227.5781, 77.6996, 90.9717, 127, 255, 0, 2, Clukker_The_Crazy_(Spontaneous_Generator)
+P 1197.5519, 947.2438, 92.4894, 127, 255, 0, 2, Nahas_the_Treasure_Hunter
 P 1079.0751, -824.8514, 124.9404, 140, 200, 255, 2, Ronald_Brumplefoot
 P 527.0000, -1666.0000, -10.0000, 140, 200, 255, 2, The_Bunny_Behemoth
 P 417.0000, -1291.0000, 265.0000, 140, 200, 255, 2, All-Seeing_Eye

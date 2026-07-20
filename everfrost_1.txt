@@ -49,7 +49,7 @@ P 5022.7119, -1897.9968, -63.9042,  0, 240, 0,  2,  Joff_(Parcels,Merchant)
 P 5026.6206, -1871.9508, -63.9042, 140, 200, 255, 2, Teria_Grinntli
 P 5011.6626, -1864.4108, -62.3849,  0, 240, 240,  2,  Qileour_Bahiael_(Raid)
 P 5025.7485, -1842.1995, -63.9042,  0, 240, 0,  2,  Kipler_Steffeal_(Adventure_Merchant)
-P 5027.2568, -1829.7042, -63.9042,  0, 127, 127,  2,  Mannis_McGuyett_(Group_Adventures)
+P 5027.2568, -1829.7042, -63.9042, 127, 255, 0, 2, Mannis_McGuyett_(Group_Adventures)
 P 5016.9517, -1810.9344, -63.8851,  0, 240, 0,  2,  Grizula_(Adventure_Merchant)
 P 173.9510, 1599.5266, -62.3717, 140, 200, 255, 2, Arnis_McLish
 P 4502.0483, -1464.3517, -234.5061, 30, 144, 255, 1, GS:_Barbarian_Jaw

@@ -106,7 +106,7 @@ P -765.4145, -453.3476, 229.2326, 255, 140, 0, 2, Akazz_the_Blood_Goddess_(Hunte
 P -758.6743, -455.0640, 189.5755, 255, 140, 0, 2, Zurul_the_Bonecruncher_(Hunter/Gladiator)
 P -822.2461, -135.5140, 186.5322, 255, 140, 0, 2, Nendor_the_Daunting_(Hunter/Gladiator)
 P -760.6808, -369.5587, 185.6939, 255, 140, 0, 2, Ulga_the_Elfeater_(Hunter/Gladiator)
-P -487.4247, -1588.4875, 322.0428,  0, 127, 127,  2,  Tiensien_the_Mad_(Quest)
+P -487.4247, -1588.4875, 322.0428, 127, 255, 0, 2, Tiensien_the_Mad_(Quest)
 P 283.4123, 493.4172, 1.2765, 140, 200, 255, 2, Sridge,_The_Friendly_Fisherman
 P 96.8473, -2630.2900, 321.7531,  240, 240, 240,  2,  The_Dissapearing_Wall
 P 827.4882, -2447.8159, 356.3868,  240, 240, 240,  2,  Market_Area_(Roof)

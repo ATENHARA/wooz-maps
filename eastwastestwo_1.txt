@@ -8,10 +8,10 @@ P 2321.0000, 2368.0000, -5.4412,  240, 0, 0,  2,  Succor
 P 2070.6309, -342.5184, -24.9895,  240, 240, 240,  2,  Coldain_Hut
 P 2316.8206, 2340.7100, -3.6344,  240, 240, 240,  2,  Coldain_Fort
 P 2278.3677, 2453.1045, -8.3431,  0, 240, 240,  2,  Bethun_Brewbeard_(Raids,Mission)
-P 2366.8572, 2363.4524, -5.7210,  0, 127, 127,  2,  Crusader_Vraket_(Quests)
-P 2376.9192, 2392.5569, -5.6146,  0, 127, 127,  2,  Yealdin_Stormfell_(Quests)
-P 2294.0005, 2425.8750, -6.6275,  0, 127, 127,  2,  Reclamation_Officer_Borminn_(Quests)
-P 2381.1924, 2458.5552, -6.9569,  0, 127, 127,  2,  Missionary_Ada_(Quests)
+P 2366.8572, 2363.4524, -5.7210, 127, 255, 0, 2, Crusader_Vraket_(Quests)
+P 2376.9192, 2392.5569, -5.6146, 127, 255, 0, 2, Yealdin_Stormfell_(Quests)
+P 2294.0005, 2425.8750, -6.6275, 127, 255, 0, 2, Reclamation_Officer_Borminn_(Quests)
+P 2381.1924, 2458.5552, -6.9569, 127, 255, 0, 2, Missionary_Ada_(Quests)
 P -764.5441, 569.1942, -29.1960, 255, 140, 0, 2, a_returned_dracolich_(Hunter,Roam)
 P 179.7789, 1527.0033, -16.7485,  240, 240, 240,  2,  Sleeper`s_Tomb
 P -1021.6191, -1768.2217, 10.6479,  240, 240, 240,  2,  Coldain_Hut
@@ -19,7 +19,7 @@ P 34.4495, -197.1356, -21.8786,  240, 127, 0,  2,  Griklor_the_Restless_(Raid_Mo
 P -2102.4485, 1370.9330, 5.4232,  0, 240, 240,  2,  Iceweaver_Sjeon_(Raid,Mission)
 P 2382.5342, 2498.3201, -6.0024, 140, 200, 255, 2, Emil_Widgetton
 P 2283.6299, 2468.6353, -9.1504,  0, 240, 240,  2,  Dagmar_Midcap_(Raids)
-P 2238.5398, 2390.9126, -4.8376,  0, 127, 127,  2,  Grunak_(Quests)
+P 2238.5398, 2390.9126, -4.8376, 127, 255, 0, 2, Grunak_(Quests)
 P -1450.0419, -1070.7360, -25.2648, 255, 140, 0, 2, Monolith_the_Unstoppable_(Hunter)
 P -1134.7421, -703.9780, -35.8111, 255, 140, 0, 2, Bolman_(Hunter,Roam)
 P 1790.3606, -1669.3969, -17.2815,  240, 240, 240,  2,  Ada's_last_posting

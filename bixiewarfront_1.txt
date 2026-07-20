@@ -5,7 +5,7 @@ P 2100.0000, 1151.0000, 32.8350,  255, 0, 0,  2,  Succor
 P 1909.8500, 1271.2000, 40.5300,  0, 240, 240,  2,  Frislo_(Mission,Raid)
 P 1920.2902, 1264.9926, 38.0993,  0, 128, 128,  2,  Commander_Zavrus_(Quest)
 P 2023.6781, 1322.9264, 38.2020,  0, 128, 128,  2,  Scout_Reneza_(Quest)
-P 1887.3197, 912.1899, -169.2700,  0, 127, 127,  2,  Battlebreaker_Kraklest_(Heroic_Adventures)
+P 1887.3197, 912.1899, -169.2700, 127, 255, 0, 2, Battlebreaker_Kraklest_(Heroic_Adventures)
 P 1722.0000, 773.9600, -124.2200,  0, 128, 128,  2,  Snazlieu_the_Shadow_(Heroic_Adventures)
 P 1691.8899, 855.0200, -132.9200,  0, 128, 128,  2,  Ambassador_Crizlyna_(Heroic_Adventures)
 P 2126.1299, 783.3000, 52.0900,  0, 128, 128,  2,  Naturalist_Yrelia_(Heroic_Adventures)

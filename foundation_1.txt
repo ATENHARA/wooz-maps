@@ -6,7 +6,7 @@ P -1230.6093, 269.1261, -205.2889, 0, 128, 128, 2, Foreman_Gribblebitz_(Quest)
 P -1216.2596, -208.7693, -205.2770, 0, 128, 128, 2, Trullica_(Quest)
 P -1247.9768, -165.6238, -204.8315, 0, 128, 128, 2, Dorillis_(Quest)
 P -1415.1411, 132.0486, -212.9292, 0, 240, 240, 2, Greph_(Raid)
-P -1407.8146, 122.0969, -211.6469, 0, 127, 127, 2, Darott_(Mission)
+P -1407.8146, 122.0969, -211.6469, 127, 255, 0, 2, Darott_(Mission)
 P -1361.1978, 237.0751, -203.0672, 0, 127, 0, 2, Dermott_Satllagger_(Supplier:_Brellium_Tokens)
 P 891.7787, -344.3022, -78.6973, 240, 240, 240, 2, Genari_Statue_Northern_Part_of_Eastern_Section
 P 826.2054, 331.6203, -88.5359, 240, 240, 240, 2, Genari_Statue_Southern_Part_of_Eastern_Section

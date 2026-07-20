@@ -7,10 +7,10 @@ P -358.7968, -2080.5190, 161.1057,  240, 240, 0,  2,  Click_orb_to_open_north_wa
 P -104.0653, 223.7001, 53.5092, 140, 200, 255, 2, Randle_Cummings
 P -110.6611, -4.1408, 53.6690, 140, 200, 255, 2, Regan_Mills
 P 1052.1084, -1466.4144, 186.5028, 140, 200, 255, 2, Grenic_Drere
-P 539.1193, 971.5707, 51.5872,  0, 127, 127,  2,  Sergeant_Johson_Popoah_(Quest)
-P 509.4688, 950.1274, 51.5867,  0, 127, 127,  2,  Paralin_Notion
-P 56.8123, -456.0678, 196.5935,  0, 127, 127,  2,  Master_Sergeant_Aaramis_Daryln
-P 665.3013, 1007.7538, 53.2011,  0, 127, 127,  2,  Captain_Ryglot_Cupperhide
+P 539.1193, 971.5707, 51.5872, 127, 255, 0, 2, Sergeant_Johson_Popoah_(Quest)
+P 509.4688, 950.1274, 51.5867, 127, 255, 0, 2, Paralin_Notion
+P 56.8123, -456.0678, 196.5935, 127, 255, 0, 2, Master_Sergeant_Aaramis_Daryln
+P 665.3013, 1007.7538, 53.2011, 127, 255, 0, 2, Captain_Ryglot_Cupperhide
 P 1554.7163, -80.7639, 51.4024, 140, 200, 255, 2, Discipline_of_Tranquility
 P -1118.1881, 1169.4341, 70.3296, 140, 200, 255, 2, an_undead_squire
 P -354.5285, -2696.6353, 39.0043,  240, 127, 0,  2,  Aerin`Dar_(Raid)

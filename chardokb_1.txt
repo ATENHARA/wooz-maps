@@ -4,7 +4,7 @@ P 186.0000, -307.0000, -2.0000,  255, 0, 0,  3,  to_Chardok_(click)
 P -188.5561, 377.9595, 27.0020, 30, 144, 255, 1, GS:_Cage_of_Transmutation
 P -359.7851, 90.7192, 31.0021,  240, 240, 240,  2,  North_Resurrectionist_Room
 P -338.2468, 448.7080, 51.0020, 140, 200, 255, 2, Palardiag_Dax`Kunoskan
-P -99.6316, 223.1964, 27.0020,  0, 127, 127,  2,  Baelin_Xir`Rixoan_(Quest)
+P -99.6316, 223.1964, 27.0020, 127, 255, 0, 2, Baelin_Xir`Rixoan_(Quest)
 P -602.7133, 825.7570, 34.0022,  240, 240, 240,  2,  South_Resurrectionist_Room
 P -439.1567, 654.8971, 18.0020,  240, 240, 240,  2,  Chokidai_Den
 P -748.1863, 322.8818, 15.0020,  240, 240, 240,  2,  Undead_Sarnak_Mines

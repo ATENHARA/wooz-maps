@@ -62,7 +62,7 @@ P 192.0000, 485.0000, 1.0000,  0, 127, 0,  2,  Malusuard_Blolus_(Bard_Songs)
 P 289.0000, 439.0000, 4.0000,  0, 127, 0,  2,  Ethrrian_Drowius_(Tinkering)
 P 306.0000, 441.0000, 4.0000,  0, 127, 0,  2,  Eyunon_Storius_(Tinkering)
 P 319.0000, 440.0000, 4.0000,  0, 127, 0,  2,  Farihon_Nastuius_(Food_and_Drink)
-P 358.0000, 353.0000, 4.0000,  0, 127, 127,  2,  Moe_Wilborn_(Mission)
+P 358.0000, 353.0000, 4.0000, 127, 255, 0, 2, Moe_Wilborn_(Mission)
 P 258.0000, 391.0000, 4.0000,  0, 127, 0,  2,  Gemcrafter_Anuk_((Melee_Augs)
 P 509.0000, 785.0000, 4.0000,  0, 127, 0,  2,  Quanan_Mahius_(Common_Spells)
 P 403.0000, 912.0000, 1.0000,  0, 127, 0,  2,  Palunrion_Shyeitia_(Cleric_Spells)
@@ -87,7 +87,7 @@ P 800.0000, 1145.0000, 9.0000, 140, 200, 255, 2, Lythe_Songbird
 P 893.0000, 1145.0000, 9.0000, 255, 230, 140, 2, Marus_Kemson_(GM_Bard)
 P 942.0000, 1082.0000, 9.0000, 140, 200, 255, 2, Felisity_Starbright
 P 892.0000, 1030.0000, 9.0000, 255, 230, 140, 2, Sten_Harnak_(GM_Bard)
-P 865.0000, 1011.0000, 9.0000,  0, 127, 127,  2,  Artisan_Vivian_Selgan_(Tradeskill_Quests)
+P 865.0000, 1011.0000, 9.0000, 127, 255, 0, 2, Artisan_Vivian_Selgan_(Tradeskill_Quests)
 P 828.0000, 1029.0000, 9.0000,  0, 127, 0,  2,  Jekel_Enhied_(Bard_Supplies)
 P 912.0000, 1089.0000, 9.0000, 255, 230, 140, 2, Caskin_Marsheart_(GM_Bard)
 P 866.0000, 1129.0000, 40.0000, 255, 230, 140, 2, Nashia_Lanseb_(GM_Bard)
@@ -195,7 +195,7 @@ P 1160.1785, 1113.5991, 4.0844,  186, 85, 211,  2,  Brew_Barrel
 P 814.9803, -159.6278, 4.6453,  186, 85, 211,  2,  Brew_Barrel
 P 775.9924, -200.4780, 4.6484,  186, 85, 211,  2,  Oven
 P 1912.2456, -634.2784, 17.8030, 140, 200, 255, 2, Bait_Masterson
-P 1129.3341, 1053.3539, 5.5741,  0, 127, 127,  2,  Moe_Wilborn_(Mission)
+P 1129.3341, 1053.3539, 5.5741, 127, 255, 0, 2, Moe_Wilborn_(Mission)
 P -342.3947, 1215.5945, -53.0590,  186, 85, 211,  2,  Oven
 P -124.6548, 329.4576, 0.3755,  240, 240, 240,  2,  Leather_and_Hide
 P 169.7012, -448.4070, 4.4686,  240, 240, 240,  2,  Key_Tavern
@@ -223,7 +223,7 @@ P -495.2767, 1594.6532, -53.2250,  0, 127, 0,  2,  Gord_Smith_(Weapons)
 P -589.5135, 1450.4619, -52.5391, 255, 230, 140, 2, Brutol_Rhaksen_(GM_Warrior)
 P -577.0046, 1432.4127, -52.6052, 255, 230, 140, 2, Raltur_Caliskon_(GM_Shadow_Knight)
 P -332.2585, 1427.7704, -52.3954, 255, 230, 140, 2, Harkin_Duskfoot_(GM_Rogue)
-P -348.8191, 1435.8130, -52.4541,  0, 127, 127,  2,  Poison_Master_Telkos_(Poison_Tasks)
+P -348.8191, 1435.8130, -52.4541, 127, 255, 0, 2, Poison_Master_Telkos_(Poison_Tasks)
 P 1110.4951, 1095.0299, 4.0845, 140, 200, 255, 2, Imxil_T`brow
 P 741.7314, 116.0767, 2.9387,  0, 240, 0,  2,  Carris_Vanden_(Black_Market_Dealer)
 P 590.8063, -256.2969, 3.2088, 140, 200, 255, 2, Knight_Champion_Eddard

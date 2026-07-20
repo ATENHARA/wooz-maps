@@ -77,7 +77,7 @@ P 331.4647, 159.2283, 104.2375, 140, 200, 255, 2, Farwein_Windrun
 P 322.6207, 162.7731, 104.2375, 140, 200, 255, 2, Soulbinder_Silandra_(Soulbinder)
 P 303.2954, 171.3247, 104.2375, 140, 200, 255, 2, Maeggi_Lohndl
 P 284.9323, 115.9930, 104.4265, 140, 200, 255, 2, Selephra_Giztral
-P 323.0874, 95.7990, 104.3016,  0, 127, 127,  2,  Kallei_Ribblok_(Group_Missions)
+P 323.0874, 95.7990, 104.3016, 127, 255, 0, 2, Kallei_Ribblok_(Group_Missions)
 P 307.8321, -3005.8411, 148.4875, 140, 200, 255, 2, Taldrik_Stumpystout
 P 1554.1327, -1777.2643, 21.0314, 140, 200, 255, 2, Terrorantula_(Roam)
 P 1437.0237, -1573.7577, 25.8794, 140, 200, 255, 2, Ghoul_of_Takish-Hiz_(Roam)

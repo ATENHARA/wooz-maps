@@ -21,7 +21,7 @@ P -794.2788, -2592.0745, -230.3081,  255, 0, 0,  3,  to_Heart_of_Fear:_The_Thres
 P -0.0000, -0.0000, -406.8652,  255, 0, 0,  2,  Succor
 P -20.4861, -54.1937, -405.5472,  186, 85, 211,  2,  Spit
 P 601.4471, -474.1104, -409.2475,  240, 255, 0,  2,  One_Way_Drop
-P 438.7072, -18.2396, -640.2952,  0, 127, 127,  2,  the_guardian_of_the_depths_(Quest,_Mission)
+P 438.7072, -18.2396, -640.2952, 127, 255, 0, 2, the_guardian_of_the_depths_(Quest,_Mission)
 P 24.1184, 48.3420, -405.5473,  0, 128, 128,  2,  Barnaby_Fellfoot_(Quest)
 P 18.4105, -42.8617, -405.5473,  0, 128, 128,  2,  a_Harbringer_spy_(Quest)
 P -13.2314, -52.0317, -405.5472,  0, 128, 128,  2,  Provisioner_Lena_(Quest)

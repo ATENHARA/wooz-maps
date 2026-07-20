@@ -73,7 +73,7 @@ P 779.5698, -448.3889, 0.0020, 255, 230, 140, 2, Kerton_R`Dev_(GM_Cleric)
 P 1292.1890, -752.3879, -83.9667, 0, 127, 0, 2, Hutyn_L`Lozz_(Tailoring)
 P 1364.3160, -773.6359, -83.9667, 140, 200, 255, 2, Torxal_Smalane
 P 1307.7485, -637.3831, -83.9667, 255, 230, 140, 2, Selzar_L`Crit_(GM_Rogue)
-P 1348.7987, -669.7300, -111.9667, 0, 127, 127, 2, Poison_Master_Oskar_(Poison_Tasks)
+P 1348.7987, -669.7300, -111.9667, 127, 255, 0, 2, Poison_Master_Oskar_(Poison_Tasks)
 P 1357.0161, -652.5923, -111.9667, 255, 230, 140, 2, Hekzin_G`Zule_(GM_Rogue)
 P 1271.2393, -1281.0565, -82.9667, 255, 230, 140, 2, Tralon_Din`a_(GM_Shadow_Knight)
 P 1280.2491, -1246.8629, -83.9667, 255, 230, 140, 2, Ulraz_S`Lon_(GM_Shadow_Knight)

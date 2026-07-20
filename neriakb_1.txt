@@ -102,7 +102,7 @@ P 974.6545, -133.9092, -28.9980, 0, 127, 0, 2, a_spell_research_merchant_(Resear
 P 924.5723, -144.3804, -27.9980, 0, 127, 0, 2, a_spell_research_merchant_(Research)
 P 933.7166, -157.5837, -27.9980, 0, 127, 0, 2, a_spell_research_merchant_(Research)
 P 876.6176, -132.1559, -13.9980, 140, 200, 255, 2, Razran_F`Lok_(Roam)
-P 886.2076, -85.4599, -41.9667, 0, 127, 127, 2, Artisan_Dosan_Vis`moor_(Trade_Skill_Quests)
+P 886.2076, -85.4599, -41.9667, 127, 255, 0, 2, Artisan_Dosan_Vis`moor_(Trade_Skill_Quests)
 P 927.9760, -48.3744, -55.9667, 0, 240, 0, 2, Guard_W`Selo_(Parcels)
 P 1214.1038, 94.5015, -13.9980, 0, 127, 0, 2, Myrva_N`Tan_(General)
 P 1237.9642, 94.4827, 0.0020, 0, 127, 0, 2, Svlis_C`Luzz_(General)

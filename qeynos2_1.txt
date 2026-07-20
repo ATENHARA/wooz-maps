@@ -58,7 +58,7 @@ P 75.6680, 144.8318, 0.0020, 140, 200, 255, 2, Anne_Bellsong_(Mercenary)
 P 3.1999, -84.9004, 0.1582, 140, 200, 255, 2, Hurrieta_Ironforge
 P 10.3734, -106.4840, 16.1582, 140, 200, 255, 2, Brohan_Ironforge
 P -270.6290, -137.3550, 0.1582, 140, 200, 255, 2, Gibson_Galliway
-P -395.8099, -243.1628, 0.0020,  0, 127, 127,  2,  Artisan_Tar_Cordell_(Tradeskill_Quests)
+P -395.8099, -243.1628, 0.0020, 127, 255, 0, 2, Artisan_Tar_Cordell_(Tradeskill_Quests)
 P -415.1351, -104.9867, -0.9980, 140, 200, 255, 2, Jaylia_the_Faithful
 P -325.6404, -301.9420, 14.1582, 255, 230, 140, 2, Phin_Esromap_(GM_Monk)
 P -347.3275, -304.8379, 14.1582, 255, 230, 140, 2, Togahn_Sorash_(GM_Monk)
@@ -77,12 +77,12 @@ P -122.9559, -302.2680, 44.1270, 140, 200, 255, 2, Leanon_Ruksey
 P -195.5319, -310.2632, 44.1270, 140, 200, 255, 2, Vegalys_Keldrane
 P 160.7984, -339.3944, 0.1582,  240, 240, 0,  2,  Fake_Wall
 P -148.4254, -25.6064, -30.9980, 255, 230, 140, 2, Hanns_Krieghor_(GM_Rogue)
-P -182.7937, -44.5234, -33.9980,  0, 127, 127,  2,  Poison_Masker_Tenk_(Poison_Tasks)
+P -182.7937, -44.5234, -33.9980, 127, 255, 0, 2, Poison_Masker_Tenk_(Poison_Tasks)
 P -181.8797, -16.9831, -33.9980, 255, 230, 140, 2, Renux_Herkanor_(GM_Rogue)
 P -162.0999, -59.5847, -32.9980,  0, 127, 0,  2,  Ghil_Starn_(General)
 P -347.1999, -88.7641, 0.0020,  0, 127, 0,  2,  Nerissa_Clothspinner_(Armor)
-P -313.9361, -118.4908, 0.0020,  0, 127, 127,  2,  Segran_Rajhar_(Task_Master)
-P -189.7040, -52.5514, -0.9980,  0, 127, 127,  2,  Artisan_Vor_Westrider_(Trade_Skill_Quests)
+P -313.9361, -118.4908, 0.0020, 127, 255, 0, 2, Segran_Rajhar_(Task_Master)
+P -189.7040, -52.5514, -0.9980, 127, 255, 0, 2, Artisan_Vor_Westrider_(Trade_Skill_Quests)
 P 124.8880, 143.6493, 0.0020,  0, 127, 0,  2,  Kragie_Rolana_(Cleric_Spells)
 P 130.8510, 161.3013, 0.0020,  0, 127, 0,  2,  Mellisa_Purgor_(Cleric_Spells)
 P 145.8546, 161.1646, 0.0020,  0, 127, 0,  2,  Whysia_Flock_(General)
@@ -100,7 +100,7 @@ P 445.2719, 88.8114, -15.9980, 30, 144, 255, 1, GS:_Old_Silver_Coin
 P 160.5313, -438.7993, 0.0020, 140, 200, 255, 2, Grennet_Stormhand
 P 130.8503, -353.7614, 0.0020, 140, 200, 255, 2, Rolon_Banari
 P 344.4128, -158.1618, 0.0020, 140, 200, 255, 2, Rineval_Talyas
-P 362.9489, -191.9522, 0.0020,  0, 127, 127,  2,  Jorren_Boxmover_(Tasks)
+P 362.9489, -191.9522, 0.0020, 127, 255, 0, 2, Jorren_Boxmover_(Tasks)
 P -295.9926, -42.7836, 0.0020, 140, 200, 255, 2, Faldor_Hendrys
 P -64.0739, -73.0819, -0.1733,  186, 85, 211,  2,  Forge
 P 285.5197, 182.8136, 1.0020, 140, 200, 255, 2, Enic_Ruklin_(Roam)

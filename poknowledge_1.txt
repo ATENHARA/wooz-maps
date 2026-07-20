@@ -109,7 +109,7 @@ P -1533.1742, -55.5051, -127.9970,  0, 127, 0,  2,  Darius_Ganril_(General)
 P -1434.7350, -252.9558, -128.9979, 140, 200, 255, 2, Nebbo_Watzet
 P -1386.7925, -255.6861, -117.2190, 140, 200, 255, 2, Sage_Vilgand
 P -404.3394, -672.9174, -156.9969, 140, 200, 255, 2, Tarerd_Gahar
-P -454.5080, -779.7130, -160.9979,  0, 127, 127,  2,  V`Lynn_Renloe_(Armor_Quests)
+P -454.5080, -779.7130, -160.9979, 127, 255, 0, 2, V`Lynn_Renloe_(Armor_Quests)
 P -788.4271, -863.9877, -159.7469, 140, 200, 255, 2, Tratlan_Jowyr
 P -804.7411, -886.0480, -159.7469, 140, 200, 255, 2, Wicas_Adaolath
 P -558.2921, -435.9654, -127.4490,  127, 127, 127,  2,  Lunya_(Auras)
@@ -120,7 +120,7 @@ P 95.0145, 376.4998, -159.9979, 140, 200, 255, 2, Nayr_Cogswin
 P 82.6597, 226.1726, -160.9979,  0, 127, 0,  2,  Keliss_Arden_(Hero`s_Forge)
 P 55.5090, 225.3184, -160.9979, 140, 200, 255, 2, Soulbinder_Jera
 P -262.5201, -62.3845, -127.9979,  0, 240, 240,  2,  Old_Man_McKenzie_(Classic_Missions)
-P -257.1636, -74.3068, -127.9979,  0, 127, 127,  2,  Grumbiv_Wetbeard_(Task_Master)
+P -257.1636, -74.3068, -127.9979, 127, 255, 0, 2, Grumbiv_Wetbeard_(Task_Master)
 P -234.5625, -86.8121, -127.9979,  0, 127, 0,  2,  Bargol_Halith_(Brewing)
 P -247.5034, 87.7762, -127.9979,  0, 127, 0,  2,  Melet_Ironstove_(Baking)
 P -237.4275, 86.5075, -127.9979,  0, 127, 0,  2,  Klen_Ironstove_(Baking)
@@ -133,10 +133,10 @@ P -322.0490, -74.4529, -127.9513,  0, 127, 0,  2,  Glena_Quok_(Smithing)
 P -304.7628, -104.9141, -127.9979,  0, 127, 0,  2,  Merabo_Sotath_(Brewing)
 P -279.6890, -103.0291, -127.9979,  0, 127, 0,  2,  Sirekoth_Eshe_(Brewing)
 P -254.9698, -104.4860, -127.9317,  0, 127, 0,  2,  Basur_Tu`Qual_(Brewing)
-P -463.5923, -408.2926, -127.9979,  0, 127, 127,  2,  Meeka_Gharn_(Quests)
+P -463.5923, -408.2926, -127.9979, 127, 255, 0, 2, Meeka_Gharn_(Quests)
 P -462.0608, -430.4323, -127.9979,  0, 240, 0,  2,  Frans_Henkal_(Parcels)
 P -857.6561, -356.7089, -95.9979, 140, 200, 255, 2, Bintaana_Jikla
-P -806.2224, -335.2314, -95.9979,  0, 127, 127,  2,  Sheley_Courilan_(Task_Master)
+P -806.2224, -335.2314, -95.9979, 127, 255, 0, 2, Sheley_Courilan_(Task_Master)
 P -760.0212, -404.6195, -95.9979,  0, 127, 0,  2,  Audri_Deepfacet_(Jewelcrafting)
 P -1081.6471, -419.4579, -103.9979,  0, 127, 0,  2,  Redie_Imsin_(Smithing)
 P -1081.6504, -394.8765, -103.9979,  0, 127, 0,  2,  Horil_Imsin_(Smithing)
@@ -165,10 +165,10 @@ P -1421.6660, 132.4774, -111.9990,  0, 127, 0,  2,  Ciren_Darkbog_(Poison)
 P -1406.0454, 116.9914, -111.9979,  0, 127, 0,  2,  Loran_Thu`Leth_(Poison)
 P -1473.1909, 91.5209, -111.9979,  0, 127, 0,  2,  Jaren_Cloudchaser_(Fletching)
 P -1341.5364, 352.9461, -128.9979,  127, 127, 127,  2,  Aven_Spiritmaker_(Guilds)
-P -1215.5021, 319.9421, -116.4354,  0, 127, 127,  2,  Skal_Nethus_(Hot_Zone_Quests)
-P -1245.3953, 343.4347, -127.5999,  0, 127, 127,  2,  Franklin_Teek_(Hot_Zones)
+P -1215.5021, 319.9421, -116.4354, 127, 255, 0, 2, Skal_Nethus_(Hot_Zone_Quests)
+P -1245.3953, 343.4347, -127.5999, 127, 255, 0, 2, Franklin_Teek_(Hot_Zones)
 P -1156.8788, 421.2981, -128.9979, 140, 200, 255, 2, Willamina
-P -991.6326, 459.3886, -128.9979,  0, 127, 127,  2,  Mercenary_Captain_Cecille_(Mercenary_Roster_Quest)
+P -991.6326, 459.3886, -128.9979, 127, 255, 0, 2, Mercenary_Captain_Cecille_(Mercenary_Roster_Quest)
 P -972.5576, 451.9641, -128.9979, 140, 200, 255, 2, Cook_Yates
 P -867.0497, 431.8030, -128.9979, 140, 200, 255, 2, Trep_Thilcan
 P -714.9875, 360.8559, -95.9979,  0, 127, 0,  2,  Blacksmith_Gerta_(Smithing)
@@ -187,7 +187,7 @@ P -758.0505, 303.3974, -80.4979,  0, 127, 0,  2,  Artisan_Kazin_(Tradeskill_Kits
 P -895.7003, 345.4292, -95.9979, 140, 200, 255, 2, Morgyn_Connors
 P -887.6446, 329.4379, -95.9979, 140, 200, 255, 2, Jeann_Acur
 P -836.0369, 327.3508, -95.9979,  0, 127, 0,  2,  Fletcher_Lenvale_(Fletching)
-P -871.0374, 299.3635, -95.9292,  0, 127, 127,  2,  Kerst_Frostrift_(Tradeskill)
+P -871.0374, 299.3635, -95.9292, 127, 255, 0, 2, Kerst_Frostrift_(Tradeskill)
 P -978.7347, 327.7261, -95.9979,  0, 127, 0,  2,  Brewmaster_Berina_(Brewing)
 P -965.5934, 313.6955, -95.9979,  186, 85, 211,  2,  Brew_Barrel
 P -946.3779, 331.8531, -95.9979,  0, 127, 0,  2,  Tailor_Kujen_(Tailoring)
@@ -205,7 +205,7 @@ P -721.8481, 104.3371, 0.0020,  0, 127, 0,  2,  a_cultural_historian_(Tradeskill
 P -684.0284, 137.4327, 0.0020,  0, 127, 0,  2,  a_cultural_smithing_historian_(Tradeskill_Books)
 P -703.6381, 142.8592, 0.0020,  0, 127, 0,  2,  a_cultural_tailoring_historian_(Tradeskill_Books)
 P -975.4423, 476.5197, -128.9979, 140, 200, 255, 2, Quartermaster_Quinn
-P -989.7219, 566.1583, -129.7171,  0, 127, 127,  2,  Barrenzin_(Armor_Quests)
+P -989.7219, 566.1583, -129.7171, 127, 255, 0, 2, Barrenzin_(Armor_Quests)
 P -1212.7743, 551.6287, -126.6335, 140, 200, 255, 2, Agrakath_Theric
 P -640.1382, 57.6820, 0.0020, 140, 200, 255, 2, Vacurasa_of_the_Dark_(Wedding_Corrdinator)
 P -76.7669, 108.3648, -127.9979, 140, 200, 255, 2, Leramas_Feston
@@ -240,8 +240,8 @@ P -308.3872, -734.8028, -160.9979,  127, 127, 127,  2,  Scholar_Berkin_(Informat
 P -341.3247, -744.4063, -160.9979,  127, 127, 127,  2,  Scholar_Kiulo_(Information)
 P -336.5932, -766.7365, -160.9979,  127, 127, 127,  2,  Scholar_Awerrin_(Information)
 P -310.4365, -783.2936, -160.9979,  127, 127, 127,  2,  Scholar_Jarvi_(Information)
-P -192.5132, -862.3750, -160.9979,  0, 127, 127,  2,  James_the_Watchmaker__(Quests)
-P -198.5244, -937.6122, -159.9979,  0, 127, 127,  2,  Lorekeeper_Blaimas_(Missions)
+P -192.5132, -862.3750, -160.9979, 127, 255, 0, 2, James_the_Watchmaker__(Quests)
+P -198.5244, -937.6122, -159.9979, 127, 255, 0, 2, Lorekeeper_Blaimas_(Missions)
 P -317.6886, -828.0193, -159.9979, 255, 230, 140, 2, Grandmaster_Chendra_(GM_Monk)
 P -324.3539, -851.0102, -159.9979, 255, 230, 140, 2, Assassin_Rysarieul_(GM_Rogue)
 P -565.5370, -886.6879, -113.9979, 255, 230, 140, 2, Crusader_Gimil_(GM_Paladin)
@@ -297,11 +297,11 @@ P -1117.6062, 797.1688, -159.9979, 255, 230, 140, 2, Virtuoso_Ciadus_(GM_Bard)
 P -920.0660, 640.6682, -127.9979, 140, 200, 255, 2, Gwiraba_Gelrid
 P -906.3138, 656.2189, -127.9979, 140, 200, 255, 2, Zauvudd_Gigoth
 P -917.0571, 681.5746, -127.9979, 140, 200, 255, 2, Xasri_Virek
-P -1036.9994, 675.7285, -127.9979,  0, 127, 127,  2,  Tralina_Dukar_(Task_Master)
+P -1036.9994, 675.7285, -127.9979, 127, 255, 0, 2, Tralina_Dukar_(Task_Master)
 P -1048.4589, 648.0724, -127.9979, 140, 200, 255, 2, Onirelin_Gali
 P -1008.8384, 660.1390, -39.9980, 140, 200, 255, 2, Sage_Gunyth
 P -1020.7874, 674.3403, -39.9980, 140, 200, 255, 2, Gilina_Yilzior
-P -509.7216, 346.0504, -126.4819,  0, 127, 127,  2,  Thach_Jerden_(Armor_Quests)
+P -509.7216, 346.0504, -126.4819, 127, 255, 0, 2, Thach_Jerden_(Armor_Quests)
 P -357.5089, 270.8872, -127.4771, 140, 200, 255, 2, Yaldu_Bwor_(Spirit_Shrouds)
 P -150.6098, -251.6772, -126.4507, 140, 200, 255, 2, Shroudkeeper_Hyush_(Spirit_Shrouds)
 P -759.2585, 324.8055, -95.5813,  186, 85, 211,  2,  Ice_Cream_Churn

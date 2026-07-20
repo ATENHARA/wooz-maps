@@ -45,13 +45,13 @@ P -339.2742, -136.2988, -0.9980, 140, 200, 255, 2, Barrith_the_Brave
 P -394.6039, -111.5320, 0.0020,  186, 85, 211,  2,  Forge
 P -396.0118, -127.2402, 0.0020,  0, 127, 0,  2,  Bindolmera_Greybloom_(Armor)
 P -376.9038, -138.9454, 0.0020,  0, 127, 0,  2,  Hindaek_Stormhammer_(Weapons)
-P -33.5963, -68.0691, 20.0020,  0, 127, 127,  2,  Guard_Dinler_(Task_Master)
-P 33.1194, -70.7040, 20.0020,  0, 127, 127,  2,  Guard_Anathur_(Task_Master)
+P -33.5963, -68.0691, 20.0020, 127, 255, 0, 2, Guard_Dinler_(Task_Master)
+P 33.1194, -70.7040, 20.0020, 127, 255, 0, 2, Guard_Anathur_(Task_Master)
 P -212.3101, -118.0413, 0.0020,  0, 127, 0,  2,  Helga_Steelsmith_(Mercenary_Liason,Roam)
 P -364.4018, -38.2448, 12.0020, 255, 230, 140, 2, Dirjadak_Barbrawler_(GM_Warrior)
 P -300.0898, -68.5758, 12.0020, 255, 230, 140, 2, Furtog_Ogrebane_(GM_Warrior)
 P -301.1580, -142.6992, 1.0020, 255, 230, 140, 2, Hogunk_Ventille_(GM_Warrior)
-P -469.4652, -21.1954, 0.0020,  0, 127, 127,  2,  Artisan_Yar_Shiverbow_(Tradeskill_Quests)
+P -469.4652, -21.1954, 0.0020, 127, 255, 0, 2, Artisan_Yar_Shiverbow_(Tradeskill_Quests)
 P -184.5790, -29.8117, 0.1030,  186, 85, 211,  2,  Loom
 P -365.2792, -74.9506, -8.9980, 30, 144, 255, 1, GS:_Old_Silver_Coin
 P -415.8439, 87.7425, 0.0020, 140, 200, 255, 2, Bronlor_Lightblade

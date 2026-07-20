@@ -24,7 +24,7 @@ P 2747.8428, -6923.2422, 1.6550,  140, 200, 255,  2,  Juni_Sandfisher
 P 2753.5398, -6941.6563, 1.2560,  140, 200, 255,  2,  Puntar_Sandfisher
 P 276.2620, -5373.2549, 125.7150,  140, 200, 255,  2,  Brolog
 P 527.8350, -7897.0840, 94.4230,  0, 240, 0,  2,  Daevyd_Londayl_(Adventure_Merchant)
-P 536.5600, -7905.2422, 95.1350,  0, 127, 127,  2,  Escon_Quickbow_(Group_Missions)
+P 536.5600, -7905.2422, 95.1350, 127, 255, 0, 2, Escon_Quickbow_(Group_Missions)
 P 573.1120, -7846.9521, 94.5630,  0, 240, 0,  2,  Dereu_Ztr`Tn_(Adventure_Merchant)
 P 575.2339, -7913.0430, 94.7950,  140, 200, 255,  2,  Shelie_Dikop
 P 583.1240, -7402.8672, 41.2740,  140, 200, 255,  2,  Rargahob_Dursaar

@@ -94,10 +94,10 @@ P -273.4124, -350.9150, 73.9707, 255, 230, 140, 2, Regren_(GM_Warrior)
 P -265.9774, -322.9031, 73.9707, 255, 230, 140, 2, Josylyn_Greenblade_(GM_Warrior)
 P -476.5388, -741.9399, 72.9395, 140, 200, 255, 2, Nylianne_the_True
 P -563.5099, -900.8057, 114.4082,  186, 85, 211,  2,  Loom
-P -660.6047, -942.5253, 114.4082,  0, 127, 127,  2,  Artisan_Calian_Silverlake_(Tradeskill_Quests)
-P -201.1889, -938.9823, 73.9707,  0, 127, 127,  2,  Guard_Orcflayer_(Task_Master)
+P -660.6047, -942.5253, 114.4082, 127, 255, 0, 2, Artisan_Calian_Silverlake_(Tradeskill_Quests)
+P -201.1889, -938.9823, 73.9707, 127, 255, 0, 2, Guard_Orcflayer_(Task_Master)
 P -366.1776, -137.5022, 73.9707,  0, 127, 0,  2,  Gemcrafter_Wecak_(Melee_Augs)
-P -291.9433, -165.7122, 73.9707,  0, 127, 127,  2,  Guard_Sunweaver_(Task_Master)
+P -291.9433, -165.7122, 73.9707, 127, 255, 0, 2, Guard_Sunweaver_(Task_Master)
 P -232.4278, 236.4667, 73.9707,  0, 127, 0,  2,  Beleth_Streamfoot_(Bard_Songs)
 P -258.2666, 223.2977, 73.9707, 140, 200, 255, 2, Idia
 P -261.9573, 233.1101, 73.9707, 140, 200, 255, 2, Jakum_Webdancer
@@ -107,7 +107,7 @@ P -272.1861, 278.1862, 73.9707,  0, 127, 0,  2,  Serilia_Whistlewind_(Bard_Songs
 P 284.6543, 203.5823, 74.0020,  0, 127, 0,  2,  Brandolin_Steelvane_(Mercenary_Liaison)
 P 263.4427, 210.0883, 74.0020,  0, 127, 0,  2,  Breece_Steelvane_(Mercenary_Liaison)
 P 562.1296, 521.8751, 157.9082, 140, 200, 255, 2, Enyaanuia_Windancer
-P 172.8084, 521.8750, 157.9707,  0, 127, 127,  2,  Poison_Master_Tom_(Poison_Tasks)
+P 172.8084, 521.8750, 157.9707, 127, 255, 0, 2, Poison_Master_Tom_(Poison_Tasks)
 P 194.6792, 541.1034, 157.9707, 255, 230, 140, 2, Tilania_Shadowwalker_(GM_Rogue)
 P 160.2921, 551.3956, 157.9707, 255, 230, 140, 2, Expin_(GM_Rogue)
 P 222.3103, 515.5530, 157.9706, 255, 230, 140, 2, Tylfon_(GM_Rogue)

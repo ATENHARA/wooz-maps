@@ -1,7 +1,7 @@
 P -89.0000, -846.0000, -2.0000,  240, 0, 0,  3,  to_Empyr:_Realms_of_Ash
 P 12.0000, 12.0000, -2.0000,  240, 0, 0,  3,  to_Stratos:_Zephyr`s_Flight
-P 32.0000, 38.0000, -2.0000,  0, 127, 127,  2,  Darkened_Victorious_Scholar_(Quests)
-P -133.0000, -886.0000, -2.0000,  0, 127, 127,  2,  Emerald_Hope_of_the_Stars_(Quests)
+P 32.0000, 38.0000, -2.0000, 127, 255, 0, 2, Darkened_Victorious_Scholar_(Quests)
+P -133.0000, -886.0000, -2.0000, 127, 255, 0, 2, Emerald_Hope_of_the_Stars_(Quests)
 P -432.9286, -279.5551, 89.6986,  240, 240, 240,  2,  Spiral_smoke_ramp_going_up
 P -594.3444, -41.1628, -83.2893,  240, 240, 240,  2,  Trial_of_Three
 P 301.2014, -745.5170, 59.5693, 140, 200, 255, 2, to_West_Entrance_Transit

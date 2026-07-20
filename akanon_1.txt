@@ -34,7 +34,7 @@ P 61.8996, -967.2216, -23.9980,  0, 128, 0,  2,  clockwork_(Armor)
 P 705.0000, -1221.0000, -27.9990,  0, 128, 0,  2,  clockwork_(Smithing)
 P 711.9950, -1332.2200, -27.9980,  0, 128, 0,  2,  clockwork_(Weapons)
 P 706.2414, -1232.5210, -27.9980,  0, 128, 0,  2,  clockwork_(Armor)
-P 720.0000, -1195.0000, -27.9990,  0, 127, 127,  2,  Tesil_Gludien_(Task_Master)
+P 720.0000, -1195.0000, -27.9990, 127, 255, 0, 2, Tesil_Gludien_(Task_Master)
 P 734.4433, -1325.9689, -27.9980,  0, 128, 0,  2,  clockwork_(Smithing)
 P 745.0000, -1170.0000, -27.9990,  0, 128, 0,  2,  clockwork_(Smithing)
 P 759.0000, -1174.0000, -27.9990,  0, 128, 0,  2,  clockwork_(Armor)
@@ -78,7 +78,7 @@ P 388.0000, -2082.0000, -183.9365, 255, 230, 140, 2, Dewis_Caneal_(GM_Necromance
 P 388.0000, -2100.0000, -183.9365, 255, 230, 140, 2, Evah_Xokez_(GM_Cleric)
 P 820.4698, -1299.5431, -39.9667,  255, 255, 255,  2,  Ak`Anon_Zoo
 P 108.0158, -779.5541, -31.9980,  240, 240, 0,  2,  Ramp_Up
-P 132.0963, -829.6978, 0.0020,  0, 127, 127,  2,  Artisan_Vidi_Cogsworthy_(Artisan_Quests)
+P 132.0963, -829.6978, 0.0020, 127, 255, 0, 2, Artisan_Vidi_Cogsworthy_(Artisan_Quests)
 P 152.1838, -757.6341, -15.9980,  0, 127, 0,  2,  a_clockwork_miner_(Smithing)
 P 733.8127, -1225.3462, -27.9980,  186, 85, 211,  2,  Clockwork_Forge_(Cultural)
 P 713.4391, -1307.5712, -27.9980,  0, 240, 0,  2,  Zenrel_Ottonoggin_(Parcels)
@@ -122,7 +122,7 @@ P 368.9965, -2152.3953, -183.9354,  0, 127, 0,  2,  clockwork_(Cleric_Spells)
 P 439.7530, -2130.9727, -183.9354, 255, 230, 140, 2, Valknor_Zethkog_(GM_Shadow_Knight)
 P 428.4031, -2112.8196, -183.9354,  0, 127, 0,  2,  clockwork_(Cleric_Spells)
 P 450.7019, -2069.8914, -183.9354, 140, 200, 255, 2, Tilkzog_Mournunder
-P 495.0586, -2069.6565, -183.9354,  0, 127, 127,  2,  Poison_Master_Genk_(Poison_Tasks)
+P 495.0586, -2069.6565, -183.9354, 127, 255, 0, 2, Poison_Master_Genk_(Poison_Tasks)
 P 593.8411, -2156.7520, -183.9354, 140, 200, 255, 2, Rebbie_Romblerum
 P 594.5767, -2165.9690, -183.9354, 140, 200, 255, 2, Windlebeck_Tobokog
 P 520.4380, -2023.8009, -183.9354, 140, 200, 255, 2, Clockwork_VIIX

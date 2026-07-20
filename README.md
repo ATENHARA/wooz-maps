@@ -62,14 +62,14 @@ Both end in an `r, g, b` color. The tables below are a lookup key for reading th
 | ![#FF0000](https://placehold.co/15x15/FF0000/FF0000.png) | `255,0,0` | Zonelines ("to_X" exits) | `to_North_Ro` |
 | ![#008000](https://placehold.co/15x15/008000/008000.png) | `0,127,0` / `0,128,0` | Merchants / vendors | `Innkeep_Rille_(General)` |
 | ![#FFFFFF](https://placehold.co/15x15/FFFFFF/FFFFFF.png) | `255,255,255` | Landmark buildings | `Freeport_City_Hall` |
-| ![#007F7F](https://placehold.co/15x15/007F7F/007F7F.png) | `0,127,127` | Missions / Tasks | `Almon_Juliao_(Task_Master)` |
+| ![#7FFF00](https://placehold.co/15x15/7FFF00/7FFF00.png) | `127,255,0` | Missions / Tasks | `Almon_Juliao_(Task_Master)` |
 | ![#00F0F0](https://placehold.co/15x15/00F0F0/00F0F0.png) | `0,240,240` | Raids | `Uzmanya_Zsik_(Raid)` |
 | ![#C71585](https://placehold.co/15x15/C71585/C71585.png) | `199,21,133` | Special / notable POI | — |
 | ![#BA55D3](https://placehold.co/15x15/BA55D3/BA55D3.png) | `186,85,211` | Craft stations | `Forge`, `Kiln`, `Oven`, `Loom`, `Brew_Barrel` |
 | ![#FFE68C](https://placehold.co/15x15/FFE68C/FFE68C.png) | `255,230,140` | GM class trainers | `Trushandra_(GM_Cleric)` |
 | ![#FF8C00](https://placehold.co/15x15/FF8C00/FF8C00.png) | `255,140,0` | Named / Hunter-tagged mobs | `Dreadfang_(Hunter,Roam,HS)` |
 | ![#8CC8FF](https://placehold.co/15x15/8CC8FF/8CC8FF.png) | `140,200,255` | Generic NPC / mob markers | plain named NPCs, roam mobs, bosses |
-| ![#1E90FF](https://placehold.co/15x15/1E90FF/1E90FF.png) | `30,144,255` | `GS:` ground spawns (loot pickups) | `GS:_Old_Silver_Coin` |
+| ![#1E90FF](https://placehold.co/15x15/1E90FF/1E90FF.png) | `30,144,255` | `GS:` ground spawns & chests (loot pickups) | `GS:_Old_Silver_Coin`, `a_waterlogged_chest` |
 | ![#AFAFAF](https://placehold.co/15x15/AFAFAF/AFAFAF.png) | `175,175,175` | Map credit / legend text (not an NPC) | `Revised_Map:_Brewall_Rainsinger...` |
 
 ## Zones with full manual rework

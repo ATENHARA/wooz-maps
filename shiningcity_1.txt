@@ -46,7 +46,7 @@ P -99.0232, -443.9162, -54.3783, 140, 200, 255, 2, Rock_Icewalker
 P -67.5054, -386.1539, -54.3793, 140, 200, 255, 2, Shining_Thought_(Roam)
 P -13.5010, -336.1823, -47.5114, 140, 200, 255, 2, Secretary_Kilkin
 P -138.9472, 92.5183, -47.5886,  0, 240, 0,  2,  Vendor-Bot_Model_CM(Merchant,Brellium_Tokens)
-P -634.7696, -1168.6984, 317.4262,  0, 127, 127,  2,  Saria_Everhot_(Quests)
+P -634.7696, -1168.6984, 317.4262, 127, 255, 0, 2, Saria_Everhot_(Quests)
 P -508.2825, -344.7491, 126.6266, 140, 200, 255, 2, Bekthar,_Kobold_Mob_Leader_(Named,Roam)
 P -364.4142, -20.5213, -46.7536,  240, 240, 0,  2,  Elevator_Switch
 P -366.8119, -20.7255, 31.8648,  240, 240, 0,  2,  Elevator_Switch

@@ -7,11 +7,11 @@ P -269.4706, -502.8618, -49.5602, 140, 200, 255, 2, Tindle_Valleren
 P -863.7094, -780.2222, -41.0309, 140, 200, 255, 2, Mance_Randerson
 P -185.9683, -2576.4846, -29.2017, 140, 200, 255, 2, Gabriel_Corvalis
 P 882.0935, -2016.9504, -30.5474, 140, 200, 255, 2, Trenna_Markland
-P 40.7705, -1472.8792, 94.9932, 0, 127, 127, 2, Neelo_Leafwind_(Quests)
+P 40.7705, -1472.8792, 94.9932, 127, 255, 0, 2, Neelo_Leafwind_(Quests)
 P -77.5264, -1590.4799, 93.2269, 140, 200, 255, 2, Syrina_Pureheart
 P -76.1757, -1578.2996, 93.2269, 140, 200, 255, 2, Brinda_Windstrider
 P -84.1284, -1490.9978, 93.2269, 140, 200, 255, 2, Artisan_Corgeld
-P -74.0604, -1483.3966, 93.2269, 0, 127, 127, 2, Lashun_Novashire_(Heroic_Adventures)
+P -74.0604, -1483.3966, 93.2269, 127, 255, 0, 2, Lashun_Novashire_(Heroic_Adventures)
 P 41.7373, -1489.5071, 93.2269, 140, 200, 255, 2, Sinia_Wistsong
 P 45.4620, -1586.5765, 93.2269, 140, 200, 255, 2, Magnus_Selleck
 P 30.7005, -1593.1219, 93.2269, 140, 200, 255, 2, Higgins_Hillerman
@@ -20,7 +20,7 @@ P -151.4599, -1334.9293, 60.2502, 0, 127, 0, 2, Kamiowe_Ordup_(Group_Armor_-_Pla
 P -127.9669, -1350.0496, 60.7203, 0, 127, 0, 2, Shirlell_Isnamgam_(Weapon_Augs)
 P -117.4291, -1327.5822, 60.2021, 0, 240, 0, 2, Lyppsenfon_Qeyton_(Raid_Outfitter)
 P -118.7514, -1318.0596, 60.1954, 0, 127, 0, 2, Dabowe_Lesdans_(Solvents)
-P -18.0574, -1281.4667, 60.1954, 0, 127, 127, 2, Tarl_Punox_(Heroic_Adventures)
+P -18.0574, -1281.4667, 60.1954, 127, 255, 0, 2, Tarl_Punox_(Heroic_Adventures)
 P 754, -2947, -77, 255, 140, 0, 2, Bhaly_Adan_(Hunter)
 P -1803, -2214, -24, 255, 140, 0, 2, Bilemonger_(Hunter)
 P -792, -2576, -43, 255, 140, 0, 2, Bilemonger_(Hunter)

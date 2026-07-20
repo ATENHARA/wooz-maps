@@ -100,12 +100,12 @@ P 230.5670, -394.3763, 14.0020,  240, 240, 0,  2,  Locked_Door
 P 348.2406, -384.1199, 14.4455, 140, 200, 255, 2, Haggle_Baron_Klok
 P 328.1974, -368.8599, 2.1936,  240, 240, 240,  2,  Haggle_Baron
 P -75.6420, -671.1982, -9.9980,  0, 240, 0,  2,  Trooper_Zishrin_(Parcels)
-P -37.0756, -673.5035, -9.9980,  0, 127, 127,  2,  Trooper_Azalin_(Task_Master)
-P 2.5069, -652.0009, -1.9980,  0, 127, 127,  2,  Frizazz_(Task_Master)
-P 17.0815, -649.2534, -1.9980,  0, 127, 127,  2,  Jozter_(Task_Master)
+P -37.0756, -673.5035, -9.9980, 127, 255, 0, 2, Trooper_Azalin_(Task_Master)
+P 2.5069, -652.0009, -1.9980, 127, 255, 0, 2, Frizazz_(Task_Master)
+P 17.0815, -649.2534, -1.9980, 127, 255, 0, 2, Jozter_(Task_Master)
 P 32.4552, -826.0301, 1.0020, 140, 200, 255, 2, The_Toilmaster
-P 95.0288, -937.1787, 0.0020,  0, 127, 127,  2,  Crusader_Olos_(Task_Master)
-P 440.3970, -852.7875, 1.0020,  0, 127, 127,  2,  Artisan_Sieeva_Koan_(Trade_Skill_Quests)
+P 95.0288, -937.1787, 0.0020, 127, 255, 0, 2, Crusader_Olos_(Task_Master)
+P 440.3970, -852.7875, 1.0020, 127, 255, 0, 2, Artisan_Sieeva_Koan_(Trade_Skill_Quests)
 P 363.2202, -841.0018, 14.0020, 140, 200, 255, 2, Shezlie_Furscale
 P 336.3961, -830.6245, 14.0020, 140, 200, 255, 2, Zazlan_Furscale
 P 407.1152, -763.2502, 1.0020, 140, 200, 255, 2, Klok_Denip
