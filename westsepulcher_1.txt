@@ -90,8 +90,8 @@ P -644.4498, -1878.2666, -0.0438, 140, 200, 255, 2, The_Relic_of_Ladrys
 P -1323.6740, -462.2542, 4.3212, 240, 240, 240, 2, Sentry_Stone_of_Oseka
 P -2371.7239, -297.3836, -225.6009, 140, 200, 255, 2, The_Relic_of_Oseka
 P -644.5645, -1530.9703, 4.2107, 140, 200, 255, 2, The_Relic_of_Ladrys
-P -697.7780, -1411.9221, 4.6434, 0, 128, 128, 2, a_thelasa_ereth_of_Illdaera_(Quest)
-P -1012.1025, 0.7801, 3.7060, 0, 128, 128, 2, a_thelasa_ereth_of_Lunanyn_(Quest)
+P -697.7780, -1411.9221, 4.6434, 127, 255, 0, 2, a_thelasa_ereth_of_Illdaera_(Quest)
+P -1012.1025, 0.7801, 3.7060, 127, 255, 0, 2, a_thelasa_ereth_of_Lunanyn_(Quest)
 P -1970.6132, -841.4818, -1.6293, 140, 200, 255, 2, The_Relic_of_Illdaera
 P -1093.1807, -887.5736, 3.6484, 240, 240, 240, 2, Sentry_Stone_of_Illdaera
 P -1506.5035, 578.1246, -52.6055, 140, 200, 255, 2, The_Relic_of_Sholoth
@@ -104,8 +104,8 @@ P -1460.1884, 614.8853, -72.6005, 0, 0, 127, 1, Decayed_Remains
 P -1540.5874, 640.9137, -67.9108, 0, 0, 127, 1, Decayed_Remains
 P -1533.1616, 548.5102, -72.6004, 0, 0, 127, 1, Decayed_Remains
 P -1562.1553, 631.9590, -72.6005, 140, 200, 255, 2, Dunia
-P -981.0681, -943.7004, 5.7117, 0, 128, 128, 2, a_thelasa_ereth_of_Lunanyn_(Quest)
-P -1250.4414, -565.2567, 6.1897, 0, 128, 128, 2, a_thelasa_ereth_of_Illdaera_(Quest)
+P -981.0681, -943.7004, 5.7117, 127, 255, 0, 2, a_thelasa_ereth_of_Lunanyn_(Quest)
+P -1250.4414, -565.2567, 6.1897, 127, 255, 0, 2, a_thelasa_ereth_of_Illdaera_(Quest)
 P -2354.2461, -381.5536, -223.2742, 255, 140, 0, 2, Deepblade_(Hunter)
 P -656.9886, -2050.4045, -1004.9221, 255, 140, 0, 2, The_Cleaner_(Hunter)
 P -630.2017, -2044.2075, -456.8066, 255, 140, 0, 2, Mindlock_(Hunter)

@@ -2,12 +2,12 @@ P 176.0880, -171.4550, 97.8160,  255, 0, 0,  3,  to_Takish-Hiz
 P -586.2620, -295.3650, -36.3100,  255, 0, 0,  3,  from_The_Plane_of_Knowledge
 P -606.0000, -296.0000, -38.1875,  255, 0, 0,  2,  Succor
 P 47.7000, -112.1230, 87.3850, 140, 200, 255, 2, Maryn_Tak`Yaliz
-P 343.9820, -899.6670, -0.5030,  0, 128, 128,  2,  Arch_Druid_Lilthill`yan_(Single_missions)
+P 343.9820, -899.6670, -0.5030, 127, 255, 0, 2, Arch_Druid_Lilthill`yan_(Single_missions)
 P -190.7540, 44.8260, 214.5600, 140, 200, 255, 2, Loyalist_Tobey
 P 434.7920, -693.0870, 280.7860, 140, 200, 255, 2, Clergyman_Jaynen
 P 144.7260, -974.0699, 280.7860, 140, 200, 255, 2, Chancellor_Rokhoi
 P 210.5360, -739.3630, 112.3170, 140, 200, 255, 2, Chancellor_Deradan
-P -5.1580, -127.2030, 84.5740,  0, 128, 128,  2,  Shalowen_the_Pure_(Group_Tasks)
+P -5.1580, -127.2030, 84.5740, 127, 255, 0, 2, Shalowen_the_Pure_(Group_Tasks)
 P -1517.1720, 42.2850, 86.4200, 140, 200, 255, 2, Totemkeeper_Goz
 P -159.9760, -649.5740, 260.7860, 140, 200, 255, 2, Watchman_Sayure
 P 231.1250, 316.6010, 216.9010, 140, 200, 255, 2, Chancellor_Do`mare

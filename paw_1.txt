@@ -1,6 +1,6 @@
 P -72.0000, 126.0000, 1.5201,  255, 0, 0,  3,  to_The_Southern_Plains_of_Karana
 P -63.0000, 122.0000, 0.0000,  255, 0, 0,  2,  Succor
-P -5.7154, 10.3523, 0.5331,  0, 128, 128,  2,  Gillamina_Garstobidokis_(Quest)
+P -5.7154, 10.3523, 0.5331, 127, 255, 0, 2, Gillamina_Garstobidokis_(Quest)
 P 212.2902, -817.9806, -28.1376, 140, 200, 255, 2, Fire_Elemental_Brigand_(Roam)
 P -284.5031, -405.8889, 9.0020, 140, 200, 255, 2, Retharg
 P -222.9541, -416.9969, 10.0019,  240, 240, 0,  2,  Pull_Levers_to_Open_Jail_Cells

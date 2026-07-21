@@ -1,7 +1,7 @@
 P -42.0000, -25.0000, -6.7651, 255, 0, 0, 3, to_Arthicrex
 P 178.8144, 1033.9016, -66.2899, 255, 0, 0, 3, to_The_Convorteum
-P -151.8947, 905.8393, -33.6524, 0, 128, 128, 2, Stoutanvil_the_Crafter_(Quest)
-P -220.0065, 888.2884, -39.5459, 0, 128, 128, 2, Bitelock_the_Quartermaster_(Quest)
+P -151.8947, 905.8393, -33.6524, 127, 255, 0, 2, Stoutanvil_the_Crafter_(Quest)
+P -220.0065, 888.2884, -39.5459, 127, 255, 0, 2, Bitelock_the_Quartermaster_(Quest)
 P 161.1570, 130.2560, -50.1214, 127, 255, 0, 2, Gihbra_Artinguard_(Quest)
 P 379.1063, -55.9875, -56.7890, 240, 240, 240, 2, Mephit`s_Lair
 P 639.6588, 538.3188, -143.9285, 140, 200, 255, 2, Fibros_Geripon

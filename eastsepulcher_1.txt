@@ -14,10 +14,10 @@ P -2500.0000, 1800.0000, 27.0000, 0, 0, 240, 2, Third_Level_Color
 P -2500.0000, 2000.0000, 27.0000, 127, 0, 0, 2, Fourth_Level_Color
 P -2500.0000, 0.0000, 27.0000, 140, 200, 255, 2, Path_to_Relic:_1A,_4A,_2A,_3B,_1B,_2B
 P -2500.0000, 150.0000, 27.0000, 140, 200, 255, 2, 3C,_1C,_3D,_2C,_4B,_2D,_3E,_1E,_4D
-P 893.5581, -108.9064, -0.5611, 0, 128, 128, 2, a_thelasa_ereth_of_Lunanyn_(Quest)
-P 1284.5736, -261.8685, 3.8374, 0, 128, 128, 2, a_thelasa_ereth_of_Illdaera_(Quest)
-P 737.8446, -1569.3687, 4.3089, 0, 128, 128, 2, a_thelasa_ereth_of_Illdaera_(Quest)
-P 1014.8055, -784.1111, 4.4054, 0, 128, 128, 2, a_thelasa_ereth_of_Lunanyn_(Quest)
+P 893.5581, -108.9064, -0.5611, 127, 255, 0, 2, a_thelasa_ereth_of_Lunanyn_(Quest)
+P 1284.5736, -261.8685, 3.8374, 127, 255, 0, 2, a_thelasa_ereth_of_Illdaera_(Quest)
+P 737.8446, -1569.3687, 4.3089, 127, 255, 0, 2, a_thelasa_ereth_of_Illdaera_(Quest)
+P 1014.8055, -784.1111, 4.4054, 127, 255, 0, 2, a_thelasa_ereth_of_Lunanyn_(Quest)
 P 184.1913, -1897.9596, 349.7047, 140, 200, 255, 2, The_Relic_of_Ryken
 P 1166.3091, 489.9768, -42.1764, 140, 200, 255, 2, Relic_of_Fertility
 P 873.2004, 19.0583, -0.7054, 140, 200, 255, 2, Sentry_Stone_of_Lunanyn

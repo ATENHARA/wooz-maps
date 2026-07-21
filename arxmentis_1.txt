@@ -1,7 +1,7 @@
-P -47.4572, 125.7946, -484.7020,  0, 128, 128,  2,  a_noctis_viratum_(Quests,HA)
-P 125.7749, -6.2948, -0.7692,  0, 128, 128,  2,  Serphus_Arlis_(Quests,Roam)
-P -148.3401, 55.8089, 84.8572,  0, 128, 128,  2,  Oreda_Safli_(Quest)
-P -2.2446, 93.4602, -484.6056,  0, 128, 128,  2,  Firiona_Vie_(Quests,Mission)
+P -47.4572, 125.7946, -484.7020, 127, 255, 0, 2, a_noctis_viratum_(Quests,HA)
+P 125.7749, -6.2948, -0.7692, 127, 255, 0, 2, Serphus_Arlis_(Quests,Roam)
+P -148.3401, 55.8089, 84.8572, 127, 255, 0, 2, Oreda_Safli_(Quest)
+P -2.2446, 93.4602, -484.6056, 127, 255, 0, 2, Firiona_Vie_(Quests,Mission)
 P 3.4886, -104.6488, -430.2417,  240, 240, 0,  2,  Teleport
 P -0.4359, -62.0958, -70.1016,  240, 240, 240,  2,  Principal_Vicarum_Nomia_Room
 P -326.9005, -168.9376, 112.3394, 255, 140, 0, 2, Bonemaw_(Hunter)

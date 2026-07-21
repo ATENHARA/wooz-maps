@@ -6,7 +6,7 @@ P 311.1410, -18.2060, -1.1460, 140, 200, 255, 2, Cirwea_Strongbow
 P -358.6470, -23.9120, 125.9680, 140, 200, 255, 2, Compact_Prefect_Thosen
 P -358.4690, -3.2660, 125.9680, 140, 200, 255, 2, Compact_Prefect_Tweyne
 P -358.9660, 16.7210, 125.9680, 140, 200, 255, 2, Compact_Prefect_Unala
-P 365.7000, 555.7520, 87.0360,  0, 128, 128,  2,  Lilthill`yan`s_Ghost_(Mission)
+P 365.7000, 555.7520, 87.0360, 127, 255, 0, 2, Lilthill`yan`s_Ghost_(Mission)
 P 25.6200, 413.4710, 169.3230, 140, 200, 255, 2, Krylin
 P 784.9848, 164.0686, 52.3570, 140, 200, 255, 2, Night_Terror_(Named)
 P -87.4970, -328.5650, 124.0680, 140, 200, 255, 2, The_Frantic_Construct_(Named)

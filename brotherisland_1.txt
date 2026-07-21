@@ -2,10 +2,10 @@ P 2579.0000, 4178.0000, 315.0000,  255, 0, 0,  3,  to_Tempest_Temple
 P 3099.0000, 5362.0000, 321.0000,  255, 0, 0,  3,  to_Thuliasaur_Island
 P 4504.0000, 3184.0000, 305.0000,  255, 0, 0,  3,  to_Combine_Dredge
 P 3400.0000, 3387.0000, 399.0000,  255, 0, 0,  3,  to_Degmar,_the_Lost_Castle
-P 3233.0000, 4724.0000, 535.0000,  0, 128, 128,  2,  Jameswell_Dagmire_(Quest)
-P 3233.0000, 4778.0000, 535.0000,  0, 128, 128,  2,  Dabner_Drednever_(Quest)
-P 3325.0000, 4750.0000, 535.0000,  0, 128, 128,  2,  Quigley_Barnables_(Mission)
-P 4102.0000, 3159.0000, 323.0000,  0, 128, 128,  2,  Commissioner_Paltros__(Quest)
+P 3233.0000, 4724.0000, 535.0000, 127, 255, 0, 2, Jameswell_Dagmire_(Quest)
+P 3233.0000, 4778.0000, 535.0000, 127, 255, 0, 2, Dabner_Drednever_(Quest)
+P 3325.0000, 4750.0000, 535.0000, 127, 255, 0, 2, Quigley_Barnables_(Mission)
+P 4102.0000, 3159.0000, 323.0000, 127, 255, 0, 2, Commissioner_Paltros__(Quest)
 P 3804.0000, 3899.0000, 300.0000, 140, 200, 255, 2, Captain_Sedgethwait
 P 4603.0000, 3579.0000, 11.0000, 255, 140, 0, 2, Bloated_Shark
 P 3985.0000, 3314.0000, 330.0000, 255, 140, 0, 2, Angry_Alfred_(Hunter)

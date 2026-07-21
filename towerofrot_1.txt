@@ -1,7 +1,7 @@
 P -144.9706, 38.4217, 0.7500,  255, 0, 0,  3,  to_Ethernere_Tainted_West_Karana
 P -159.9619, -0.1542, 0.7193,  255, 0, 0,  3,  to_The_Dead_Hills
 P 69.0792, -0.2217, -0.8624,  0, 240, 240,  2,  Deidre_Harath_(Quest/Mission,Raid:Ready)
-P 25.2820, -146.7651, -0.8634,  0, 128, 128,  2,  Brendaleen_Thundershield_(HA)
+P 25.2820, -146.7651, -0.8634, 127, 255, 0, 2, Brendaleen_Thundershield_(HA)
 P -40.1300, 148.5648, -0.8634,  0, 128, 0,  2,  Quincy_Hollows_(Merchant)
 P 23.6049, 20.6724, 0.7385,  240, 240, 0,  2,  Down
 P 27.0295, -19.0966, 0.7384,  240, 240, 0,  2,  Up

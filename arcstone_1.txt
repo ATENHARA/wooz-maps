@@ -2,12 +2,12 @@ P 836.0790, 564.9210, 571.7870,  255, 0, 0,  3,  to_Skylance
 P 966.3490, -233.1380, 404.9310,  255, 0, 0,  3,  to_Relic,_the_Artifact_City
 P -1608.4540, 217.2000, 2.0700,  255, 0, 0,  3,  to_West_Freeport
 P -1468.5690, 292.7530, 6.2150,  255, 210, 0,  2,  Vahna_(Banker)
-P -1669.0430, 281.7360, 3.1830,  0, 128, 128,  2,  Spirit_Hunter_Azmaro_(Missions)
-P -1685.0880, 274.6490, 4.3640,  0, 128, 128,  2,  Spirit_Hunter_Elijo_(Missions)
-P 962.4050, -196.2150, 408.7570,  0, 128, 128,  2,  Spirit_of_Ao_the_Fourth_Born_(Mission)
+P -1669.0430, 281.7360, 3.1830, 127, 255, 0, 2, Spirit_Hunter_Azmaro_(Missions)
+P -1685.0880, 274.6490, 4.3640, 127, 255, 0, 2, Spirit_Hunter_Elijo_(Missions)
+P 962.4050, -196.2150, 408.7570, 127, 255, 0, 2, Spirit_of_Ao_the_Fourth_Born_(Mission)
 P 976.1430, -204.0080, 409.3060,  0, 240, 240,  2,  Or`Sarro_the_Youngest_(Raid)
-P 962.7730, -196.2140, 408.6860,  0, 128, 128,  2,  Ao_the_Fourth_Born_(Mission)
-P 1036.8890, -138.5610, 398.6460,  0, 128, 128,  2,  Apprentice_Mage_Sarcrynn_(Tasks)
+P 962.7730, -196.2140, 408.6860, 127, 255, 0, 2, Ao_the_Fourth_Born_(Mission)
+P 1036.8890, -138.5610, 398.6460, 127, 255, 0, 2, Apprentice_Mage_Sarcrynn_(Tasks)
 P -1465.4650, 325.5040, 3.3870, 140, 200, 255, 2, Soulbinder_Cyndyll
 P -1697.4500, 329.3400, 5.9620, 140, 200, 255, 2, Scribe_Luritem
 P -1628.3387, 336.9369, 1.3009, 140, 200, 255, 2, Quartermaster_Andoro

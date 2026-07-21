@@ -1,6 +1,6 @@
 P -78.0000, 13.0000, 6.0000,  255, 0, 0,  3,  to_Oceangreen_Hills
 P -479.0000, 830.0000, 11.6542,  255, 0, 0,  3,  to_Temple_of_Bertoxxulous
-P -362.9875, 2555.1602, 2.1449,  0, 128, 128,  2,  Apothecary_Cadmael_(Quests_65+)
+P -362.9875, 2555.1602, 2.1449, 127, 255, 0, 2, Apothecary_Cadmael_(Quests_65+)
 P -812.4689, 816.5803, 3.7116, 255, 140, 0, 2, Vileplume_(Hunter,Roam)
 P 851.6216, 1818.5332, -66.5419, 255, 140, 0, 2, Jelvalak_The_Tomblord_(Hunter)
 P -436.5971, 1884.5565, 16.5241, 255, 140, 0, 2, The_Crimson_Bat_(Hunter)

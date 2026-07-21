@@ -16,9 +16,9 @@ P 871.5101, -2151.5374, 400.9317,  255, 255, 0,  2,  Instance_(Raid)
 P 1454.1547, -879.5926, 411.1233,  0, 128, 0,  2,  Inizen_Nogglezop_(Spells)
 P -1591.8700, 367.3449, 401.7636,  0, 128, 0,  1,  Pull
 P 1193.0311, 1118.0134, 411.6755, 140, 200, 255, 2, Siege_Inspector_Huttle
-P 1680.3910, -238.3699, 400.6551,  0, 128, 128,  2,  Engineer_Springfap_(Quest)
-P 1565.1342, -228.2265, 400.0285,  0, 128, 128,  2,  Tavik_Gearpaq_(Quest)
-P 1510.8737, -212.7003, 399.3843,  0, 128, 128,  2,  Pyrotechnician_Flizcoq_(Quest)
+P 1680.3910, -238.3699, 400.6551, 127, 255, 0, 2, Engineer_Springfap_(Quest)
+P 1565.1342, -228.2265, 400.0285, 127, 255, 0, 2, Tavik_Gearpaq_(Quest)
+P 1510.8737, -212.7003, 399.3843, 127, 255, 0, 2, Pyrotechnician_Flizcoq_(Quest)
 P 1407.6108, -159.3876, 394.1919, 127, 255, 0, 2, Clockwork_Warmashal_(Quest)
 P 1313.6490, -12.9958, 351.0293, 127, 255, 0, 2, Tinmyn_Cogsloose_(Quests_75+)
 P 1480.6575, -95.4600, 373.1349, 127, 255, 0, 2, Tabazon_Gearflinger_(Quests_75+)

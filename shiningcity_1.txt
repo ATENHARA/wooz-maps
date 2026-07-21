@@ -4,7 +4,7 @@ P -716.5359, -138.8958, 50.5043, 140, 200, 255, 2, Cleaner_Bot
 P -701.7327, -111.0226, 50.5043, 140, 200, 255, 2, Falrorn_Borlakio
 P -806.7717, -657.2070, 307.1811, 140, 200, 255, 2, a_shop_sweeper
 P -900.7319, -1188.0580, 339.7201, 140, 200, 255, 2, Wimzig_Manasieve
-P -630.2258, -766.7015, 389.1793,  0, 128, 128,  2,  Inventor_Biddlebook_(Quest)
+P -630.2258, -766.7015, 389.1793, 127, 255, 0, 2, Inventor_Biddlebook_(Quest)
 P -563.0735, -976.7688, 132.0023, 140, 200, 255, 2, Lindwiss_Solvolysis
 P -593.3334, -1035.7306, 132.0023, 30, 144, 255, 1, GS:_Bag_of_Golden_Cogs
 P -1136.3224, -1341.2765, 251.0977, 140, 200, 255, 2, Assistant_Jergis
@@ -14,11 +14,11 @@ P -246.4038, 88.0938, -47.3143, 140, 200, 255, 2, Assistant_Huanir
 P -1003.5922, -166.0708, 139.3548, 30, 144, 255, 1, GS:_Box_of_Reagents
 P -980.0303, -118.6460, 216.1163, 30, 144, 255, 1, GS:_Bag_of_Faulty_Voltage_Regulators
 P -109.7290, -430.9101, -54.1197, 140, 200, 255, 2, Turuff_the_Warrior
-P -1472.4480, -1218.3628, 73.4114,  0, 128, 128,  2,  Yedrin_Ironbender_(Quest)
-P -73.0000, -621.2083, 50.6545,  0, 128, 128,  2,  Dvalger_Quickwrench_(Quest)
-P -171.8037, -681.4639, 50.6545,  0, 128, 128,  2,  Tareg_Earthsteel_(Quests,Roam)
-P -257.2072, -79.0204, -47.3144,  0, 128, 128,  2,  Thalia_Chromagear_(Quest)
-P -50.1524, -418.9701, -52.6158,  0, 128, 128,  2,  Schelly_Starflight_(Quest)
+P -1472.4480, -1218.3628, 73.4114, 127, 255, 0, 2, Yedrin_Ironbender_(Quest)
+P -73.0000, -621.2083, 50.6545, 127, 255, 0, 2, Dvalger_Quickwrench_(Quest)
+P -171.8037, -681.4639, 50.6545, 127, 255, 0, 2, Tareg_Earthsteel_(Quests,Roam)
+P -257.2072, -79.0204, -47.3144, 127, 255, 0, 2, Thalia_Chromagear_(Quest)
+P -50.1524, -418.9701, -52.6158, 127, 255, 0, 2, Schelly_Starflight_(Quest)
 P -122.8381, -855.4870, 163.7967, 30, 144, 255, 1, GS:_Bag_of_Silver_Wires
 P -50.3211, -365.4698, 41.0823, 140, 200, 255, 2, The_Grand_Arbitor
 P -1445.0890, -896.5131, 221.9222, 140, 200, 255, 2, Bookkeeper_Blanch

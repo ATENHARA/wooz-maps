@@ -15,11 +15,11 @@ P 678.4854, -2898.1553, -52.0384, 255, 140, 0, 2, Mauk_Peskysnout_(Hunter)
 P 2589.5347, -1764.4553, -51.7544, 255, 140, 0, 2, Crystalline_Pyrodont_(Hunter)
 P 1825.9242, -2146.2617, -55.2133, 255, 140, 0, 2, Crystalline_Thaumadont_(Hunter)
 P 523.0000, 210.0000, -38.0000, 140, 200, 255, 2, Bridge_of_Doom_Mk_II
-P 2241.0000, -535.0000, -35.0000,  0, 128, 128,  2,  Delver_Hagorn_(Quest)
-P -117.0000, -633.0000, -37.0000,  0, 128, 128,  2,  Nedsin_Tabbels_(Quest)
+P 2241.0000, -535.0000, -35.0000, 127, 255, 0, 2, Delver_Hagorn_(Quest)
+P -117.0000, -633.0000, -37.0000, 127, 255, 0, 2, Nedsin_Tabbels_(Quest)
 P 1753.0000, -115.0000, -46.0000,  255, 255, 255,  2,  Bridge_of_Doom
-P 245.0000, -108.0000, -31.0000,  0, 128, 128,  2,  Dalikand_Darkhammer_(Quest)
-P 143.0000, -1029.0000, -47.0000,  0, 128, 128,  2,  Ylatra_the_Vassal_(Quest)
+P 245.0000, -108.0000, -31.0000, 127, 255, 0, 2, Dalikand_Darkhammer_(Quest)
+P 143.0000, -1029.0000, -47.0000, 127, 255, 0, 2, Ylatra_the_Vassal_(Quest)
 P 1716.2250, -1150.6241, -47.9676, 255, 140, 0, 2, Crystalline_Sorcidont_(Hunter,Roam)
 P 161.8484, -853.2277, -43.2610,  240, 240, 240,  2,  Crystal_Gateway
 P 27.6822, -1594.7687, -64.9026, 140, 200, 255, 2, Felsa_Kabbek
